@@ -1,569 +1,428 @@
 {
 	"label": "Age of Ashes",
-	"entries": [
-		{
-			"id": "Accursed Forge-Spurned",
+	"entries": {
+		"Accursed Forge-Spurned": {
 			"name": "Accursed Forge-Spurned"
 		},
-		{
-			"id": "Acidic Needle Launcher",
+		"Acidic Needle Launcher": {
 			"name": "Acidic Needle Launcher"
 		},
-		{
-			"id": "Aiudara Wraith",
+		"Aiudara Wraith": {
 			"name": "Aiudara Wraith"
 		},
-		{
-			"id": "Alak Stagram",
+		"Alak Stagram": {
 			"name": "Alak Stagram"
 		},
-		{
-			"id": "Aluum Enforcer",
+		"Aluum Enforcer": {
 			"name": "Aluum Enforcer"
 		},
-		{
-			"id": "Anadi Elder (Age of Ashes)",
+		"Anadi Elder (Age of Ashes)": {
 			"name": "Anadi Elder (Age of Ashes)"
 		},
-		{
-			"id": "Anadi Hunter (Age of Ashes)",
+		"Anadi Hunter (Age of Ashes)": {
 			"name": "Anadi Hunter (Age of Ashes)"
 		},
-		{
-			"id": "Anadi Sage (Age of Ashes)",
+		"Anadi Sage (Age of Ashes)": {
 			"name": "Anadi Sage (Age of Ashes)"
 		},
-		{
-			"id": "Animated Dragonstorm",
+		"Animated Dragonstorm": {
 			"name": "Animated Dragonstorm"
 		},
-		{
-			"id": "Asanbosam (Age of Ashes)",
+		"Asanbosam (Age of Ashes)": {
 			"name": "Asanbosam (Age of Ashes)"
 		},
-		{
-			"id": "Ash Web",
+		"Ash Web": {
 			"name": "Ash Web"
 		},
-		{
-			"id": "Barushak Il-Varashma",
+		"Barushak Il-Varashma": {
 			"name": "Barushak Il-Varashma"
 		},
-		{
-			"id": "Barzillai's Hounds",
+		"Barzillai's Hounds": {
 			"name": "Barzillai's Hounds"
 		},
-		{
-			"id": "Belmazog",
+		"Belmazog": {
 			"name": "Belmazog"
 		},
-		{
-			"id": "Bida",
+		"Bida": {
 			"name": "Bida"
 		},
-		{
-			"id": "Biloko Veteran (Age of Ashes)",
+		"Biloko Veteran (Age of Ashes)": {
 			"name": "Biloko Veteran (Age of Ashes)"
 		},
-		{
-			"id": "Biloko Warrior (Age of Ashes)",
+		"Biloko Warrior (Age of Ashes)": {
 			"name": "Biloko Warrior (Age of Ashes)"
 		},
-		{
-			"id": "Black Powder Bomb",
+		"Black Powder Bomb": {
 			"name": "Black Powder Bomb"
 		},
-		{
-			"id": "Blood Boar",
+		"Blood Boar": {
 			"name": "Blood Boar"
 		},
-		{
-			"id": "Bloody Blade Mercenary",
+		"Bloody Blade Mercenary": {
 			"name": "Bloody Blade Mercenary"
 		},
-		{
-			"id": "Bshez \"Sand Claws\" Shak",
+		"Bshez \"Sand Claws\" Shak": {
 			"name": "Bshez \"Sand Claws\" Shak"
 		},
-		{
-			"id": "Calmont",
+		"Calmont": {
 			"name": "Calmont"
 		},
-		{
-			"id": "Candlaron's Echo",
+		"Candlaron's Echo": {
 			"name": "Candlaron's Echo"
 		},
-		{
-			"id": "Carnivorous Crystal",
+		"Carnivorous Crystal": {
 			"name": "Carnivorous Crystal"
 		},
-		{
-			"id": "Caustic Vapor",
+		"Caustic Vapor": {
 			"name": "Caustic Vapor"
 		},
-		{
-			"id": "Charau-ka Acolyte of Angazhan (Age of Ashes)",
+		"Charau-ka Acolyte of Angazhan (Age of Ashes)": {
 			"name": "Charau-ka Acolyte of Angazhan (Age of Ashes)"
 		},
-		{
-			"id": "Charau-ka Butcher (Age of Ashes)",
+		"Charau-ka Butcher (Age of Ashes)": {
 			"name": "Charau-ka Butcher (Age of Ashes)"
 		},
-		{
-			"id": "Charau-ka Dragon Priest",
+		"Charau-ka Dragon Priest": {
 			"name": "Charau-ka Dragon Priest"
 		},
-		{
-			"id": "Charau-ka Warrior (Age of Ashes)",
+		"Charau-ka Warrior (Age of Ashes)": {
 			"name": "Charau-ka Warrior (Age of Ashes)"
 		},
-		{
-			"id": "Corrupt Guard",
+		"Corrupt Guard": {
 			"name": "Corrupt Guard"
 		},
-		{
-			"id": "Crucidaemon",
+		"Crucidaemon": {
 			"name": "Crucidaemon"
 		},
-		{
-			"id": "Dahak's Shell",
+		"Dahak's Shell": {
 			"name": "Dahak's Shell"
 		},
-		{
-			"id": "Dahak's Skull",
+		"Dahak's Skull": {
 			"name": "Dahak's Skull"
 		},
-		{
-			"id": "Dalos",
+		"Dalos": {
 			"name": "Dalos"
 		},
-		{
-			"id": "Damurdiel's Vengeance",
+		"Damurdiel's Vengeance": {
 			"name": "Damurdiel's Vengeance"
 		},
-		{
-			"id": "Deculi",
+		"Deculi": {
 			"name": "Deculi"
 		},
-		{
-			"id": "Dmiri Yoltosha",
+		"Dmiri Yoltosha": {
 			"name": "Dmiri Yoltosha"
 		},
-		{
-			"id": "Doorwarden",
+		"Doorwarden": {
 			"name": "Doorwarden"
 		},
-		{
-			"id": "Dragon Pillar",
+		"Dragon Pillar": {
 			"name": "Dragon Pillar"
 		},
-		{
-			"id": "Dragonscarred Dead",
+		"Dragonscarred Dead": {
 			"name": "Dragonscarred Dead"
 		},
-		{
-			"id": "Dragonshard Guardian",
+		"Dragonshard Guardian": {
 			"name": "Dragonshard Guardian"
 		},
-		{
-			"id": "Dragonstorm",
+		"Dragonstorm": {
 			"name": "Dragonstorm"
 		},
-		{
-			"id": "Dragonstorm Fire Giant",
+		"Dragonstorm Fire Giant": {
 			"name": "Dragonstorm Fire Giant"
 		},
-		{
-			"id": "Duergar Slave Lord",
+		"Duergar Slave Lord": {
 			"name": "Duergar Slave Lord"
 		},
-		{
-			"id": "Echoes of Betrayal",
+		"Echoes of Betrayal": {
 			"name": "Echoes of Betrayal"
 		},
-		{
-			"id": "Ekujae Guardian",
+		"Ekujae Guardian": {
 			"name": "Ekujae Guardian"
 		},
-		{
-			"id": "Eloko (Age of Ashes)",
+		"Eloko (Age of Ashes)": {
 			"name": "Eloko (Age of Ashes)"
 		},
-		{
-			"id": "Emaliza Zandivar",
+		"Emaliza Zandivar": {
 			"name": "Emaliza Zandivar"
 		},
-		{
-			"id": "Emperor Bird",
+		"Emperor Bird": {
 			"name": "Emperor Bird"
 		},
-		{
-			"id": "Endless Elven Aging",
+		"Endless Elven Aging": {
 			"name": "Endless Elven Aging"
 		},
-		{
-			"id": "Falrok",
+		"Falrok": {
 			"name": "Falrok"
 		},
-		{
-			"id": "Forge-Spurned",
+		"Forge-Spurned": {
 			"name": "Forge-Spurned"
 		},
-		{
-			"id": "Gashadokuro",
+		"Gashadokuro": {
 			"name": "Gashadokuro"
 		},
-		{
-			"id": "Gerhard Pendergrast",
+		"Gerhard Pendergrast": {
 			"name": "Gerhard Pendergrast"
 		},
-		{
-			"id": "Ghastly Bears",
+		"Ghastly Bears": {
 			"name": "Ghastly Bears"
 		},
-		{
-			"id": "Gloomglow Mushrooms",
+		"Gloomglow Mushrooms": {
 			"name": "Gloomglow Mushrooms"
 		},
-		{
-			"id": "Grauladon",
+		"Grauladon": {
 			"name": "Grauladon"
 		},
-		{
-			"id": "Graveshell",
+		"Graveshell": {
 			"name": "Graveshell"
 		},
-		{
-			"id": "Grippli Archer",
+		"Grippli Archer": {
 			"name": "Grippli Archer"
 		},
-		{
-			"id": "Grippli Greenspeaker",
+		"Grippli Greenspeaker": {
 			"name": "Grippli Greenspeaker"
 		},
-		{
-			"id": "Hellcrown",
+		"Hellcrown": {
 			"name": "Hellcrown"
 		},
-		{
-			"id": "Hermean Mutant",
+		"Hermean Mutant": {
 			"name": "Hermean Mutant"
 		},
-		{
-			"id": "Heuberk Thropp",
+		"Heuberk Thropp": {
 			"name": "Heuberk Thropp"
 		},
-		{
-			"id": "Hezle",
+		"Hezle": {
 			"name": "Hezle"
 		},
-		{
-			"id": "Ilgreth",
+		"Ilgreth": {
 			"name": "Ilgreth"
 		},
-		{
-			"id": "Ilssrah Embermead",
+		"Ilssrah Embermead": {
 			"name": "Ilssrah Embermead"
 		},
-		{
-			"id": "Immortal Ichor",
+		"Immortal Ichor": {
 			"name": "Immortal Ichor"
 		},
-		{
-			"id": "Ingnovim Tluss",
+		"Ingnovim Tluss": {
 			"name": "Ingnovim Tluss"
 		},
-		{
-			"id": "Ingnovim's Assistant",
+		"Ingnovim's Assistant": {
 			"name": "Ingnovim's Assistant"
 		},
-		{
-			"id": "Inizra Arumelo",
+		"Inizra Arumelo": {
 			"name": "Inizra Arumelo"
 		},
-		{
-			"id": "Ishti",
+		"Ishti": {
 			"name": "Ishti"
 		},
-		{
-			"id": "Jaggaki",
+		"Jaggaki": {
 			"name": "Jaggaki"
 		},
-		{
-			"id": "Jahsi",
+		"Jahsi": {
 			"name": "Jahsi"
 		},
-		{
-			"id": "Kalavakus",
+		"Kalavakus": {
 			"name": "Kalavakus"
 		},
-		{
-			"id": "Kelda Halrig",
+		"Kelda Halrig": {
 			"name": "Kelda Halrig"
 		},
-		{
-			"id": "King Harral",
+		"King Harral": {
 			"name": "King Harral"
 		},
-		{
-			"id": "Kralgurn",
+		"Kralgurn": {
 			"name": "Kralgurn"
 		},
-		{
-			"id": "Laslunn",
+		"Laslunn": {
 			"name": "Laslunn"
 		},
-		{
-			"id": "Lazurite-Infused Stone Golem",
+		"Lazurite-Infused Stone Golem": {
 			"name": "Lazurite-Infused Stone Golem"
 		},
-		{
-			"id": "Lesser Dragonstorm",
+		"Lesser Dragonstorm": {
 			"name": "Lesser Dragonstorm"
 		},
-		{
-			"id": "Lesser Manifestation Of Dahak",
+		"Lesser Manifestation Of Dahak": {
 			"name": "Lesser Manifestation Of Dahak"
 		},
-		{
-			"id": "Lifeleech Crystal Patches",
+		"Lifeleech Crystal Patches": {
 			"name": "Lifeleech Crystal Patches"
 		},
-		{
-			"id": "Living Sap",
+		"Living Sap": {
 			"name": "Living Sap"
 		},
-		{
-			"id": "Luminous Ward",
+		"Luminous Ward": {
 			"name": "Luminous Ward"
 		},
-		{
-			"id": "Malarunk",
+		"Malarunk": {
 			"name": "Malarunk"
 		},
-		{
-			"id": "Manifestation Of Dahak",
+		"Manifestation Of Dahak": {
 			"name": "Manifestation Of Dahak"
 		},
-		{
-			"id": "Mengkare",
+		"Mengkare": {
 			"name": "Mengkare"
 		},
-		{
-			"id": "Mental Scream Trap",
+		"Mental Scream Trap": {
 			"name": "Mental Scream Trap"
 		},
-		{
-			"id": "Mercenary Sailor",
+		"Mercenary Sailor": {
 			"name": "Mercenary Sailor"
 		},
-		{
-			"id": "Mud Spider",
+		"Mud Spider": {
 			"name": "Mud Spider"
 		},
-		{
-			"id": "Nketiah",
+		"Nketiah": {
 			"name": "Nketiah"
 		},
-		{
-			"id": "Nolly Peltry",
+		"Nolly Peltry": {
 			"name": "Nolly Peltry"
 		},
-		{
-			"id": "Phantom Bells",
+		"Phantom Bells": {
 			"name": "Phantom Bells"
 		},
-		{
-			"id": "Precentor",
+		"Precentor": {
 			"name": "Precentor"
 		},
-		{
-			"id": "Promise Guard",
+		"Promise Guard": {
 			"name": "Promise Guard"
 		},
-		{
-			"id": "Quarry Sluiceway",
+		"Quarry Sluiceway": {
 			"name": "Quarry Sluiceway"
 		},
-		{
-			"id": "Racharak",
+		"Racharak": {
 			"name": "Racharak"
 		},
-		{
-			"id": "Ralldar",
+		"Ralldar": {
 			"name": "Ralldar"
 		},
-		{
-			"id": "Remnant of Barzillai",
+		"Remnant of Barzillai": {
 			"name": "Remnant of Barzillai"
 		},
-		{
-			"id": "Renali",
+		"Renali": {
 			"name": "Renali"
 		},
-		{
-			"id": "Rinnarv Bontimar",
+		"Rinnarv Bontimar": {
 			"name": "Rinnarv Bontimar"
 		},
-		{
-			"id": "Rusty Mae",
+		"Rusty Mae": {
 			"name": "Rusty Mae"
 		},
-		{
-			"id": "Saggorak Poltergeist",
+		"Saggorak Poltergeist": {
 			"name": "Saggorak Poltergeist"
 		},
-		{
-			"id": "Scarlet Triad Agent",
+		"Scarlet Triad Agent": {
 			"name": "Scarlet Triad Agent"
 		},
-		{
-			"id": "Scarlet Triad Boss",
+		"Scarlet Triad Boss": {
 			"name": "Scarlet Triad Boss"
 		},
-		{
-			"id": "Scarlet Triad Bruiser",
+		"Scarlet Triad Bruiser": {
 			"name": "Scarlet Triad Bruiser"
 		},
-		{
-			"id": "Scarlet Triad Enforcer",
+		"Scarlet Triad Enforcer": {
 			"name": "Scarlet Triad Enforcer"
 		},
-		{
-			"id": "Scarlet Triad Mage",
+		"Scarlet Triad Mage": {
 			"name": "Scarlet Triad Mage"
 		},
-		{
-			"id": "Scarlet Triad Poisoner",
+		"Scarlet Triad Poisoner": {
 			"name": "Scarlet Triad Poisoner"
 		},
-		{
-			"id": "Scarlet Triad Sneak",
+		"Scarlet Triad Sneak": {
 			"name": "Scarlet Triad Sneak"
 		},
-		{
-			"id": "Scarlet Triad Sniper",
+		"Scarlet Triad Sniper": {
 			"name": "Scarlet Triad Sniper"
 		},
-		{
-			"id": "Scarlet Triad Thug",
+		"Scarlet Triad Thug": {
 			"name": "Scarlet Triad Thug"
 		},
-		{
-			"id": "Seismic Spears Trap",
+		"Seismic Spears Trap": {
 			"name": "Seismic Spears Trap"
 		},
-		{
-			"id": "Skeletal Hellknight",
+		"Skeletal Hellknight": {
 			"name": "Skeletal Hellknight"
 		},
-		{
-			"id": "Skorp",
+		"Skorp": {
 			"name": "Skorp"
 		},
-		{
-			"id": "Soulbound Ruin",
+		"Soulbound Ruin": {
 			"name": "Soulbound Ruin"
 		},
-		{
-			"id": "Spiked Doorframe",
+		"Spiked Doorframe": {
 			"name": "Spiked Doorframe"
 		},
-		{
-			"id": "Spiritbound Aluum",
+		"Spiritbound Aluum": {
 			"name": "Spiritbound Aluum"
 		},
-		{
-			"id": "Talamira",
+		"Talamira": {
 			"name": "Talamira"
 		},
-		{
-			"id": "Tarrasque, The Armageddon Engine",
+		"Tarrasque, The Armageddon Engine": {
 			"name": "Tarrasque, The Armageddon Engine"
 		},
-		{
-			"id": "Teyam Ishtori",
+		"Teyam Ishtori": {
 			"name": "Teyam Ishtori"
 		},
-		{
-			"id": "Tixitog",
+		"Tixitog": {
 			"name": "Tixitog"
 		},
-		{
-			"id": "Town Hall Fire",
+		"Town Hall Fire": {
 			"name": "Town Hall Fire"
 		},
-		{
-			"id": "Trapped Lathe",
+		"Trapped Lathe": {
 			"name": "Trapped Lathe"
 		},
-		{
-			"id": "Tree of Dreadful Dreams",
+		"Tree of Dreadful Dreams": {
 			"name": "Tree of Dreadful Dreams"
 		},
-		{
-			"id": "Uri Zandivar",
+		"Uri Zandivar": {
 			"name": "Uri Zandivar"
 		},
-		{
-			"id": "Vaklish",
+		"Vaklish": {
 			"name": "Vaklish"
 		},
-		{
-			"id": "Vazgorlu",
+		"Vazgorlu": {
 			"name": "Vazgorlu"
 		},
-		{
-			"id": "Venak",
+		"Venak": {
 			"name": "Venak"
 		},
-		{
-			"id": "Veshumirix",
+		"Veshumirix": {
 			"name": "Veshumirix"
 		},
-		{
-			"id": "Vision of Dahak",
+		"Vision of Dahak": {
 			"name": "Vision of Dahak"
 		},
-		{
-			"id": "Voz Lirayne",
+		"Voz Lirayne": {
 			"name": "Voz Lirayne"
 		},
-		{
-			"id": "Wailing Crystals",
+		"Wailing Crystals": {
 			"name": "Wailing Crystals"
 		},
-		{
-			"id": "Warbal Bumblebrasher",
+		"Warbal Bumblebrasher": {
 			"name": "Warbal Bumblebrasher"
 		},
-		{
-			"id": "Weathered Wail",
+		"Weathered Wail": {
 			"name": "Weathered Wail"
 		},
-		{
-			"id": "Wrath of the Destroyer",
+		"Wrath of the Destroyer": {
 			"name": "Wrath of the Destroyer"
 		},
-		{
-			"id": "Xevalorg",
+		"Xevalorg": {
 			"name": "Xevalorg"
 		},
-		{
-			"id": "Xotani, The Firebleeder",
+		"Xotani, The Firebleeder": {
 			"name": "Xotani, The Firebleeder"
 		},
-		{
-			"id": "Xotanispawn",
+		"Xotanispawn": {
 			"name": "Xotanispawn"
 		},
-		{
-			"id": "Zephyr Guard",
+		"Zephyr Guard": {
 			"name": "Zephyr Guard"
 		},
-		{
-			"id": "Zuferian",
+		"Zuferian": {
 			"name": "Zuferian"
 		}
-	]
+	}
 }

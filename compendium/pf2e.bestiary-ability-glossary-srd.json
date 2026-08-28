@@ -1,245 +1,197 @@
 {
 	"label": "モンスター能力",
-	"entries": [
-		{
-			"id": "+1 Status to All Saves vs Magic",
+	"entries": {
+		"+1 Status to All Saves vs Magic": {
 			"name": "魔法に対するすべてのセーヴに+1ステータス・ボーナス",
 			"description": ""
 		},
-		{
-			"id": "All-Around Vision",
+		"All-Around Vision": {
 			"name": "全周囲視覚",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
 		},
-		{
-			"id": "Aquatic Ambush",
+		"Aquatic Ambush": {
 			"name": "水中の奇襲",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
 		},
-		{
-			"id": "At-Will Spells",
+		"At-Will Spells": {
 			"name": "無制限呪文",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
 		},
-		{
-			"id": "Attack of Opportunity",
+		"Attack of Opportunity": {
 			"name": "機会攻撃",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
 		},
-		{
-			"id": "Aura",
+		"Aura": {
 			"name": "オーラ",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Aura]</p>"
 		},
-		{
-			"id": "Buck",
+		"Buck": {
 			"name": "跳ね飛ばし",
 			"description": "<p><span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-label=\"Buck DC\" data-pf2-show-dc=\"gm\">反応</span> @Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>"
 		},
-		{
-			"id": "Catch Rock",
+		"Catch Rock": {
 			"name": "岩つかみ",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
 		},
-		{
-			"id": "Change Shape",
+		"Change Shape": {
 			"name": "変身",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
 		},
-		{
-			"id": "Constant Spells",
+		"Constant Spells": {
 			"name": "常時呪文",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
 		},
-		{
-			"id": "Constrict",
+		"Constrict": {
 			"name": "締め付け",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
 		},
-		{
-			"id": "Coven",
+		"Coven": {
 			"name": "魔女団",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
 		},
-		{
-			"id": "Darkvision",
+		"Darkvision": {
 			"name": "暗視",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
 		},
-		{
-			"id": "Disease",
+		"Disease": {
 			"name": "病気",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Disease]</p>"
 		},
-		{
-			"id": "Engulf",
+		"Engulf": {
 			"name": "呑み込み",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
 		},
-		{
-			"id": "Fast Healing",
+		"Fast Healing": {
 			"name": "高速治癒",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
 		},
-		{
-			"id": "Ferocity",
+		"Ferocity": {
 			"name": "凶暴性",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
 		},
-		{
-			"id": "Form Up",
+		"Form Up": {
 			"name": "陣形変更",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FormUp]</p>"
 		},
-		{
-			"id": "Frightful Presence",
+		"Frightful Presence": {
 			"name": "荘厳なるもの",
 			"description": "<p>@Template[type:emanation|distance:__]{__ Feet} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{オーラ}</p>\n<p><span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"aura,emotion,fear,mental\" data-pf2-label=\"Frightful Presence DC\" data-pf2-show-dc=\"gm\">意志</span></p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
 		},
-		{
-			"id": "Grab",
+		"Grab": {
 			"name": "つかみ",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
 		},
-		{
-			"id": "Greater Constrict",
+		"Greater Constrict": {
 			"name": "上級締め付け",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
 		},
-		{
-			"id": "Greater Darkvision",
+		"Greater Darkvision": {
 			"name": "優れた暗視",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
 		},
-		{
-			"id": "Improved Grab",
+		"Improved Grab": {
 			"name": "つかみ強化",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
 		},
-		{
-			"id": "Improved Knockdown",
+		"Improved Knockdown": {
 			"name": "ノックダウン強化",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedKnockdown]</p>"
 		},
-		{
-			"id": "Improved Push",
+		"Improved Push": {
 			"name": "押しだし強化",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedPush]</p>"
 		},
-		{
-			"id": "Knockdown",
+		"Knockdown": {
 			"name": "ノックダウン",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
 		},
-		{
-			"id": "Lifesense",
+		"Lifesense": {
 			"name": "生命感知",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
 		},
-		{
-			"id": "Light Blindness",
+		"Light Blindness": {
 			"name": "光への過敏性",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LightBlindness]</p>"
 		},
-		{
-			"id": "Low-Light Vision",
+		"Low-Light Vision": {
 			"name": "夜目",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
 		},
-		{
-			"id": "Negative Healing",
+		"Negative Healing": {
 			"name": "負のエネルギーによる治癒",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
 		},
-		{
-			"id": "Poison",
+		"Poison": {
 			"name": "毒",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Poison]</p>"
 		},
-		{
-			"id": "Power Attack",
+		"Power Attack": {
 			"name": "強打",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.PowerAttack]</p>"
 		},
-		{
-			"id": "Push",
+		"Push": {
 			"name": "押し出し",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>"
 		},
-		{
-			"id": "Regeneration",
+		"Regeneration": {
 			"name": "再生",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
 		},
-		{
-			"id": "Rend",
+		"Rend": {
 			"name": "引き裂き",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Rend]</p>"
 		},
-		{
-			"id": "Retributive Strike",
+		"Retributive Strike": {
 			"name": "報いの打撃",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
 		},
-		{
-			"id": "Scent",
+		"Scent": {
 			"name": "嗅覚",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
 		},
-		{
-			"id": "Shield Block",
+		"Shield Block": {
 			"name": "盾防御",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
 		},
-		{
-			"id": "Sneak Attack",
+		"Sneak Attack": {
 			"name": "急所攻撃",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
 		},
-		{
-			"id": "Swallow Whole",
+		"Swallow Whole": {
 			"name": "丸呑み",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
 		},
-		{
-			"id": "Swarm Mind",
+		"Swarm Mind": {
 			"name": "スウォームの精神",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
 		},
-		{
-			"id": "Telepathy",
+		"Telepathy": {
 			"name": "テレパシー",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
 		},
-		{
-			"id": "Thoughtsense",
+		"Thoughtsense": {
 			"name": "思考感知",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Thoughtsense]</p>"
 		},
-		{
-			"id": "Throw Rock",
+		"Throw Rock": {
 			"name": "岩落とし",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
 		},
-		{
-			"id": "Trample",
+		"Trample": {
 			"name": "蹂躙",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
 		},
-		{
-			"id": "Tremorsense",
+		"Tremorsense": {
 			"name": "振動感知",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
 		},
-		{
-			"id": "Troop Defenses",
+		"Troop Defenses": {
 			"name": "トループの防御",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>"
 		},
-		{
-			"id": "Wavesense",
+		"Wavesense": {
 			"name": "波感知",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Wavesense]</p>"
 		}
-	]
+	}
 }

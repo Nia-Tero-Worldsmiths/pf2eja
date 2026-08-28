@@ -1,440 +1,353 @@
 {
 	"label": "Bestiary Effects",
-	"entries": [
-		{
-			"id": "Effect: Ancestral Response",
+	"entries": {
+		"Effect: Ancestral Response": {
 			"name": "Effect: Ancestral Response",
 			"description": ""
 		},
-		{
-			"id": "Effect: Aura of Command",
+		"Effect: Aura of Command": {
 			"name": "Effect: Aura of Command",
 			"description": "<p>The captain of the guard bolsters lower-level guards under their command, granting them a +1 status bonus to their attack rolls and a +2 status bonus to their Will saves.</p>"
 		},
-		{
-			"id": "Effect: Blasphemous Utterances",
+		"Effect: Blasphemous Utterances": {
 			"name": "Effect: Blasphemous Utterances",
 			"description": ""
 		},
-		{
-			"id": "Effect: Blood Frenzy",
+		"Effect: Blood Frenzy": {
 			"name": "Effect: Blood Frenzy",
 			"description": "<p>The creature gains temporary hit points and other effects based on the specific creature.</p>"
 		},
-		{
-			"id": "Effect: Blood Fury",
+		"Effect: Blood Fury": {
 			"name": "Effect: Blood Fury",
 			"description": ""
 		},
-		{
-			"id": "Effect: Blood Soak",
+		"Effect: Blood Soak": {
 			"name": "Effect: Blood Soak",
 			"description": ""
 		},
-		{
-			"id": "Effect: Bloodline Magic",
+		"Effect: Bloodline Magic": {
 			"name": "Effect: Bloodline Magic",
 			"description": ""
 		},
-		{
-			"id": "Effect: Bodyguard's Defense",
+		"Effect: Bodyguard's Defense": {
 			"name": "Effect: Bodyguard's Defense",
 			"description": "<p>The bodyguard selects one creature they can see and hear within 30 feet. That creature gains a +2 circumstance bonus to AC as long as the bodyguard is adjacent to the chosen creature and can act; this bonus lasts until the start of the bodyguard's next turn.</p>"
 		},
-		{
-			"id": "Effect: Bosun's Command - Attack Bonus",
+		"Effect: Bosun's Command - Attack Bonus": {
 			"name": "Effect: Bosun's Command - Attack Bonus",
 			"description": "<p>The bosun orders an ally to attack or to get in position. Until the end of the ally's next turn, they a +2 status bonus to attack rolls.</p>"
 		},
-		{
-			"id": "Effect: Bosun's Command - Speed Bonus",
+		"Effect: Bosun's Command - Speed Bonus": {
 			"name": "Effect: Bosun's Command - Speed Bonus",
 			"description": "<p>The bosun orders an ally to attack or to get in position. Until the end of the ally's next turn, they a +10 status bonus to their Speeds.</p>"
 		},
-		{
-			"id": "Effect: Brand of the Impenitent",
+		"Effect: Brand of the Impenitent": {
 			"name": "Effect: Brand of the Impenitent",
 			"description": "<p>The creature takes a –1 status penalty to AC and saves, reduces its resistances by 2, and gains weakness 2 to good damage.</p>"
 		},
-		{
-			"id": "Effect: Breach the Abyss - Acid",
+		"Effect: Breach the Abyss - Acid": {
 			"name": "Effect: Breach the Abyss - Acid",
 			"description": "<p><strong>Requirements</strong>: The demonologist's last action was to cast a non-cantrip spell;</p>\n<p><strong>Effect</strong>: The demonologist siphons energy drawn from the Abyss into their weapon. Until the end of the turn, the weapon deals an extra [[/r {2d6}[acid]]]{2d6 acid damage}.</p>\n<p>The damage type chosen randomly was Acid.</p>"
 		},
-		{
-			"id": "Effect: Breach the Abyss - Cold",
+		"Effect: Breach the Abyss - Cold": {
 			"name": "Effect: Breach the Abyss - Cold",
 			"description": "<p><strong>Requirements</strong>: The demonologist's last action was to cast a non-cantrip spell;</p>\n<p><strong>Effect</strong>: The demonologist siphons energy drawn from the Abyss into their weapon. Until the end of the turn, the weapon deals an extra [[/r {2d6}[cold]]]{2d6 cold damage}.</p>\n<p>The damage type chosen randomly was Cold.</p>"
 		},
-		{
-			"id": "Effect: Breach the Abyss - Electricity",
+		"Effect: Breach the Abyss - Electricity": {
 			"name": "Effect: Breach the Abyss - Electricity",
 			"description": "<p><strong>Requirements</strong>: The demonologist's last action was to cast a non-cantrip spell;</p>\n<p><strong>Effect</strong>: The demonologist siphons energy drawn from the Abyss into their weapon. Until the end of the turn, the weapon deals an extra [[/r {2d6}[electricity]]]{2d6 electricity damage}.</p>\n<p>The damage type chosen randomly was Electricity.</p>"
 		},
-		{
-			"id": "Effect: Breach the Abyss - Fire",
+		"Effect: Breach the Abyss - Fire": {
 			"name": "Effect: Breach the Abyss - Fire",
 			"description": "<p><strong>Requirements</strong>: The demonologist's last action was to cast a non-cantrip spell;</p>\n<p><strong>Effect</strong>: The demonologist siphons energy drawn from the Abyss into their weapon. Until the end of the turn, the weapon deals an extra [[/r {2d6}[fire]]]{2d6 fire damage}.</p>\n<p>The damage type chosen randomly was Fire.</p>"
 		},
-		{
-			"id": "Effect: Breach the Abyss - Negative",
+		"Effect: Breach the Abyss - Negative": {
 			"name": "Effect: Breach the Abyss - Negative",
 			"description": "<p><strong>Requirements</strong>: The demonologist's last action was to cast a non-cantrip spell;</p>\n<p><strong>Effect</strong>: The demonologist siphons energy drawn from the Abyss into their weapon. Until the end of the turn, the weapon deals an extra [[/r {2d6}[negative]]]{2d6 negative damage}.</p>\n<p>The damage type chosen randomly was Negative.</p>"
 		},
-		{
-			"id": "Effect: Brutal Rally",
+		"Effect: Brutal Rally": {
 			"name": "Effect: Brutal Rally",
 			"description": ""
 		},
-		{
-			"id": "Effect: Call to Action",
+		"Effect: Call to Action": {
 			"name": "Effect: Call to Action",
 			"description": "<p>The guildmaster gives a speech to inspire themself and all guild-member allies within 60 feet, granting them a +1 status bonus to attack and damage rolls until the start of the guildmaster's next turn.</p>"
 		},
-		{
-			"id": "Effect: Call to Blood",
+		"Effect: Call to Blood": {
 			"name": "Effect: Call to Blood",
 			"description": "<p>The creature gains a +2 status bonus to attack rolls against @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} creatures.</p>"
 		},
-		{
-			"id": "Effect: Caustic Mucus",
+		"Effect: Caustic Mucus": {
 			"name": "Effect: Caustic Mucus",
 			"description": ""
 		},
-		{
-			"id": "Effect: Cite Precedent",
+		"Effect: Cite Precedent": {
 			"name": "Effect: Cite Precedent",
 			"description": "<p>The barrister uses existing case law to undermine their opposition. If they succeed at a <span data-pf2-check=\"legal-lore\" data-pf2-dc=\"20\" data-pf2-traits=\"auditory,linguistic\" data-pf2-label=\"Cite Precedent DC\" data-pf2-show-dc=\"gm\">Legal Lore</span> check, they impose a -2 circumstance penalty on the next Diplomacy check an opponent attempts in a legal argument.</p>\n<p>Any further attempts to Cite Precedent fail until a new topic with different precedents is being argued.</p>"
 		},
-		{
-			"id": "Effect: Commander's Aura",
+		"Effect: Commander's Aura": {
 			"name": "Effect: Commander's Aura",
 			"description": "<p>Commanded or allied evil creatures in the aura of lower level than the @Compendium[pf2e.pathfinder-bestiary.ImueS9YFhV6sxqBP]{Marilith} gain a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.</p>"
 		},
-		{
-			"id": "Effect: Crush of Hundreds",
+		"Effect: Crush of Hundreds": {
 			"name": "Effect: Crush of Hundreds",
 			"description": ""
 		},
-		{
-			"id": "Effect: Crystalline Dust Form",
+		"Effect: Crystalline Dust Form": {
 			"name": "Effect: Crystalline Dust Form",
 			"description": "<p>The creature gains a fly Speed of 40 feet.</p>"
 		},
-		{
-			"id": "Effect: Curse of the Baneful Venom",
+		"Effect: Curse of the Baneful Venom": {
 			"name": "Effect: Curse of the Baneful Venom",
 			"description": "<p>Creatures within 30 feet of the jinxer that are currently afflicted by a poison immediately attempt their next saving throw against the poison with a -2 status penalty, then are temporarily immune to Curse of Baleful Venom for 1 hour.</p>"
 		},
-		{
-			"id": "Effect: Defensive Assault (1 Weapon)",
+		"Effect: Defensive Assault (1 Weapon)": {
 			"name": "Effect: Defensive Assault (1 Weapon)",
 			"description": "<p>The marilith makes two Strikes, each with a different weapon, and they use the remaining weapons for protection. The demon gains a circumstance bonus to AC for 1 round equal to the number of weapons not used for attacks.</p>\n<p>If the marilith later uses any of those weapons to attack (including for an Attack of Opportunity), the bonus to AC decreases by 1 for each weapon used.</p>"
 		},
-		{
-			"id": "Effect: Defensive Assault (2 Weapons)",
+		"Effect: Defensive Assault (2 Weapons)": {
 			"name": "Effect: Defensive Assault (2 Weapons)",
 			"description": "<p>The marilith makes two Strikes, each with a different weapon, and they use the remaining weapons for protection. The demon gains a circumstance bonus to AC for 1 round equal to the number of weapons not used for attacks.</p>\n<p>If the marilith later uses any of those weapons to attack (including for an Attack of Opportunity), the bonus to AC decreases by 1 for each weapon used.</p>"
 		},
-		{
-			"id": "Effect: Defensive Assault (3 Weapons)",
+		"Effect: Defensive Assault (3 Weapons)": {
 			"name": "Effect: Defensive Assault (3 Weapons)",
 			"description": "<p>The marilith makes two Strikes, each with a different weapon, and they use the remaining weapons for protection. The demon gains a circumstance bonus to AC for 1 round equal to the number of weapons not used for attacks.</p>\n<p>If the marilith later uses any of those weapons to attack (including for an Attack of Opportunity), the bonus to AC decreases by 1 for each weapon used.</p>"
 		},
-		{
-			"id": "Effect: Defensive Assault (4 Weapons)",
+		"Effect: Defensive Assault (4 Weapons)": {
 			"name": "Effect: Defensive Assault (4 Weapons)",
 			"description": "<p>The marilith makes two Strikes, each with a different weapon, and they use the remaining weapons for protection. The demon gains a circumstance bonus to AC for 1 round equal to the number of weapons not used for attacks.</p>\n<p>If the marilith later uses any of those weapons to attack (including for an Attack of Opportunity), the bonus to AC decreases by 1 for each weapon used.</p>"
 		},
-		{
-			"id": "Effect: Devour Soul",
+		"Effect: Devour Soul": {
 			"name": "Effect: Devour Soul",
 			"description": "<p>If the @Compendium[pf2e.pathfinder-bestiary.fkBcMpr3Yxxfvz9v]{Astradaemon} successfully kills a creature with Devour Soul, the astradaemon gains 10 temporary Hit Points and a +2 status bonus to attack and damage rolls for 1 minute.</p>"
 		},
-		{
-			"id": "Effect: Devour Soul (Victim Level 15 or Higher)",
+		"Effect: Devour Soul (Victim Level 15 or Higher)": {
 			"name": "Effect: Devour Soul (Victim Level 15 or Higher)",
 			"description": "<p>If the @Compendium[pf2e.pathfinder-bestiary.fkBcMpr3Yxxfvz9v]{Astradaemon} successfully kills a creature with Devour Soul, the astradaemon gains 10 temporary Hit Points and a +2 status bonus to attack and damage rolls for 1 day.</p>"
 		},
-		{
-			"id": "Effect: Dire Warning",
+		"Effect: Dire Warning": {
 			"name": "Effect: Dire Warning",
 			"description": ""
 		},
-		{
-			"id": "Effect: Dirty Bomb",
+		"Effect: Dirty Bomb": {
 			"name": "Effect: Dirty Bomb",
 			"description": ""
 		},
-		{
-			"id": "Effect: Dirty Bomb (Critical Failure)",
+		"Effect: Dirty Bomb (Critical Failure)": {
 			"name": "Effect: Dirty Bomb (Critical Failure)",
 			"description": ""
 		},
-		{
-			"id": "Effect: Disturbing Vision",
+		"Effect: Disturbing Vision": {
 			"name": "Effect: Disturbing Vision",
 			"description": "<p>The visions last [[/r 1d4 #rounds]]{1d4 rounds}, and while they do, all evil creatures in the area gain a +1 status bonus to all checks</p>"
 		},
-		{
-			"id": "Effect: Entangling Slime",
+		"Effect: Entangling Slime": {
 			"name": "Effect: Entangling Slime",
 			"description": "<p>A creature struck by a slurk's slime squirt becomes @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} and takes a -5-foot penalty to Speed for 1 hour or until the slime is removed.</p>"
 		},
-		{
-			"id": "Effect: Fanatical Frenzy",
+		"Effect: Fanatical Frenzy": {
 			"name": "Effect: Fanatical Frenzy",
 			"description": "<p><strong>Requirements</strong> The cultist has taken damage and is neither @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued} nor already in a frenzy;</p>\n<p><strong>Effect</strong> The cultist flies into a frenzy that lasts 1 minute. While frenzied, the cultist gains a +1 status bonus to attack rolls and a +2 status bonus to damage rolls, and they take a -2 status penalty to AC. The cultist can't voluntarily stop their frenzy. After their frenzy, the cultist is @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued}.</p>"
 		},
-		{
-			"id": "Effect: Filth Wave",
+		"Effect: Filth Wave": {
 			"name": "Effect: Filth Wave",
 			"description": "<p>Each creature in the area must succeed at a reflex save or take a -10-foot penalty to its Speeds for 1 minute.</p>"
 		},
-		{
-			"id": "Effect: Ghast Stench",
+		"Effect: Ghast Stench": {
 			"name": "Effect: Ghast Stench",
 			"description": "<p>While within the aura, the creature takes a –2 circumstance penalty to saves against disease and to recover from the sickened condition.</p>"
 		},
-		{
-			"id": "Effect: Guide's Warning",
+		"Effect: Guide's Warning": {
 			"name": "Effect: Guide's Warning",
 			"description": ""
 		},
-		{
-			"id": "Effect: Guiding Words",
+		"Effect: Guiding Words": {
 			"name": "Effect: Guiding Words",
 			"description": ""
 		},
-		{
-			"id": "Effect: Guildmaster's Lead",
+		"Effect: Guildmaster's Lead": {
 			"name": "Effect: Guildmaster's Lead",
 			"description": ""
 		},
-		{
-			"id": "Effect: Harmonizing Aura (Allies)",
+		"Effect: Harmonizing Aura (Allies)": {
 			"name": "Effect: Harmonizing Aura (Allies)",
 			"description": "<p>The creature gains a +2 status bonus to sonic damage rolls and a +1 status bonus to AC and all saves against sonic and auditory effects</p>"
 		},
-		{
-			"id": "Effect: Harmonizing Aura (Enemies)",
+		"Effect: Harmonizing Aura (Enemies)": {
 			"name": "Effect: Harmonizing Aura (Enemies)",
 			"description": "<p>The creature gains a -2 status bonus to sonic damage rolls and a -1 status bonus to AC and all saves against sonic and auditory effects</p>"
 		},
-		{
-			"id": "Effect: Infectious Aura",
+		"Effect: Infectious Aura": {
 			"name": "Effect: Infectious Aura",
 			"description": "<p>The creature takes a -2 status penalty to saves against disease effects.</p>\n<p data-visibility=\"gm\">If a creature within range contracts or progresses a disease, all adjacent creatures are exposed to the same disease, at the same DC.</p>"
 		},
-		{
-			"id": "Effect: Inspirational Presence",
+		"Effect: Inspirational Presence": {
 			"name": "Effect: Inspirational Presence",
 			"description": "<p>Any of the teacher's students in the aura gains a +1 circumstance bonus to @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge}.</p>"
 		},
-		{
-			"id": "Effect: Inspired Feast",
+		"Effect: Inspired Feast": {
 			"name": "Effect: Inspired Feast",
 			"description": ""
 		},
-		{
-			"id": "Effect: Inspiring Presence",
+		"Effect: Inspiring Presence": {
 			"name": "Effect: Inspiring Presence",
 			"description": "<p>The creature gains a +2 circumstance bonus to saves against fear effects.</p>"
 		},
-		{
-			"id": "Effect: Instinctual Tinker (Critical Success)",
+		"Effect: Instinctual Tinker (Critical Success)": {
 			"name": "Effect: Instinctual Tinker (Critical Success)",
 			"description": ""
 		},
-		{
-			"id": "Effect: Kharna's Blessing",
+		"Effect: Kharna's Blessing": {
 			"name": "Effect: Kharna's Blessing",
 			"description": ""
 		},
-		{
-			"id": "Effect: Lantern of Hope",
+		"Effect: Lantern of Hope": {
 			"name": "Effect: Lantern of Hope",
 			"description": "<p>The creature gains a +1 status bonus to damage rolls and to saving throws against <em>@Compendium[pf2e.spells-srd.GaRQlC9Yw1BGKHfN]{Crushing Despair}</em>.</p>"
 		},
-		{
-			"id": "Effect: Lantern of Hope (Gestalt)",
+		"Effect: Lantern of Hope (Gestalt)": {
 			"name": "Effect: Lantern of Hope (Gestalt)",
 			"description": "<p>The creature gains a +3 status bonus to damage rolls and to saving throws against <em>@Compendium[pf2e.spells-srd.GaRQlC9Yw1BGKHfN]{Crushing Despair}</em>.</p>"
 		},
-		{
-			"id": "Effect: Mangling Rend",
+		"Effect: Mangling Rend": {
 			"name": "Effect: Mangling Rend",
 			"description": "<p>The target takes a -20-foot status penalty to all Speeds until the end of its next turn.</p>"
 		},
-		{
-			"id": "Effect: Motivating Assault",
+		"Effect: Motivating Assault": {
 			"name": "Effect: Motivating Assault",
 			"description": ""
 		},
-		{
-			"id": "Effect: NPC Rage",
+		"Effect: NPC Rage": {
 			"name": "Effect: NPC Rage",
 			"description": ""
 		},
-		{
-			"id": "Effect: Necrotic Field",
+		"Effect: Necrotic Field": {
 			"name": "Effect: Necrotic Field",
 			"description": "<p>Undead within the aura deal an additional [[/r {1d6}[negative]]]{1d6 negative damage} with their natural attacks.</p>"
 		},
-		{
-			"id": "Effect: No Quarter!",
+		"Effect: No Quarter!": {
 			"name": "Effect: No Quarter!",
 			"description": "<p>The captain orders their shipmates to fight without mercy. All allied creatures of equal or lower level within 20 feet of the ship captain gain a+1 status bonus to attack rolls and damage rolls until the end of the ship captain's next turn.</p>"
 		},
-		{
-			"id": "Effect: Overtake Soul",
+		"Effect: Overtake Soul": {
 			"name": "Effect: Overtake Soul",
 			"description": ""
 		},
-		{
-			"id": "Effect: Pollution Infusion",
+		"Effect: Pollution Infusion": {
 			"name": "Effect: Pollution Infusion",
 			"description": ""
 		},
-		{
-			"id": "Effect: Profane Gift",
+		"Effect: Profane Gift": {
 			"name": "Effect: Profane Gift",
 			"description": ""
 		},
-		{
-			"id": "Effect: Red Cap",
+		"Effect: Red Cap": {
 			"name": "Effect: Red Cap",
 			"description": ""
 		},
-		{
-			"id": "Effect: Revert Form",
+		"Effect: Revert Form": {
 			"name": "Effect: Revert Form",
 			"description": "<p>The creature gains a +2 status bonus to attack rolls, damage rolls, saving throws, and skill checks.</p>"
 		},
-		{
-			"id": "Effect: Rope Snare",
+		"Effect: Rope Snare": {
 			"name": "Effect: Rope Snare",
 			"description": "<p>When a creature is hit by the erinys's rope, a segment of the rope tears loose and wraps itself around the creature, imposing a 10-foot circumstance penalty to Speed.</p>"
 		},
-		{
-			"id": "Effect: Rune of Destruction (Greatsword)",
+		"Effect: Rune of Destruction (Greatsword)": {
 			"name": "Effect: Rune of Destruction (Greatsword)",
 			"description": "<p>The greatsword gains the deadly trait with 3d12, and a creature hit with the greatsword is @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 1} unless it succeeds at a <span data-pf2-check=\"fortitude\" data-pf2-dc=\"35\" data-pf2-traits=\"arcane\" data-pf2-label=\"Rune of Destruction DC\" data-pf2-show-dc=\"gm\">Fortitude</span> save.</p>"
 		},
-		{
-			"id": "Effect: Rune of Destruction (Longspear)",
+		"Effect: Rune of Destruction (Longspear)": {
 			"name": "Effect: Rune of Destruction (Longspear)",
 			"description": "<p>The longspear gains the deadly trait with 3d8, and a creature hit with the longspear is @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 1} unless it succeeds at a <span data-pf2-check=\"fortitude\" data-pf2-dc=\"35\" data-pf2-traits=\"arcane\" data-pf2-label=\"Rune of Destruction DC\" data-pf2-show-dc=\"gm\">Fortitude</span> save.</p>"
 		},
-		{
-			"id": "Effect: Rune of Destruction (Rock)",
+		"Effect: Rune of Destruction (Rock)": {
 			"name": "Effect: Rune of Destruction (Rock)",
 			"description": "<p>The rock gains the deadly trait with 3d12, and a creature hit with the rock is @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 1} unless it succeeds at a <span data-pf2-check=\"fortitude\" data-pf2-dc=\"35\" data-pf2-traits=\"arcane\" data-pf2-label=\"Rune of Destruction DC\" data-pf2-show-dc=\"gm\">Fortitude</span> save.</p>"
 		},
-		{
-			"id": "Effect: Rune of Flames (Greatsword)",
+		"Effect: Rune of Flames (Greatsword)": {
 			"name": "Effect: Rune of Flames (Greatsword)",
 			"description": "<p>The greatsword deals an additional 3d6 fire damage on all attacks.</p>"
 		},
-		{
-			"id": "Effect: Rune of Flames (Longspear)",
+		"Effect: Rune of Flames (Longspear)": {
 			"name": "Effect: Rune of Flames (Longspear)",
 			"description": "<p>The longspear deals an additional 3d6 fire damage on all attacks.</p>"
 		},
-		{
-			"id": "Effect: Rune of Flames (Rock)",
+		"Effect: Rune of Flames (Rock)": {
 			"name": "Effect: Rune of Flames (Rock)",
 			"description": "<p>The rock deals an additional 3d6 fire damage on all attacks.</p>"
 		},
-		{
-			"id": "Effect: Rune of Smiting (Greatsword)",
+		"Effect: Rune of Smiting (Greatsword)": {
 			"name": "Effect: Rune of Smiting (Greatsword)",
 			"description": "<p>When the greatsword hits, the giant can Push the target back 10 feet, or 20 feet on a critical hit.</p>"
 		},
-		{
-			"id": "Effect: Rune of Smiting (Longspear)",
+		"Effect: Rune of Smiting (Longspear)": {
 			"name": "Effect: Rune of Smiting (Longspear)",
 			"description": "<p>When the longspear hits, the giant can Push the target back 10 feet, or 20 feet on a critical hit.</p>"
 		},
-		{
-			"id": "Effect: Rune of Smiting (Rock)",
+		"Effect: Rune of Smiting (Rock)": {
 			"name": "Effect: Rune of Smiting (Rock)",
 			"description": "<p>When the rock hits, the giant can Push the target back 10 feet, or 20 feet on a critical hit.</p>"
 		},
-		{
-			"id": "Effect: Scraping Clamor",
+		"Effect: Scraping Clamor": {
 			"name": "Effect: Scraping Clamor",
 			"description": ""
 		},
-		{
-			"id": "Effect: Soul Siphon",
+		"Effect: Soul Siphon": {
 			"name": "Effect: Soul Siphon",
 			"description": "<p>An astradaemon draws power from the souls of the recently slain. If a Small or larger living creature dies within its aura, the astradaemon gains 5 temporary Hit Points and a status bonus to attack and damage rolls for 1 round.</p>"
 		},
-		{
-			"id": "Effect: Splintered Ground",
+		"Effect: Splintered Ground": {
 			"name": "Effect: Splintered Ground",
 			"description": "<p>Granted by the Splintered Ground ability of the @Compendium[pf2e.pathfinder-bestiary.myEeYWWAgnkLwtIb]{Skulltaker}</p>\n<p>The affected creature takes a -10-foot circumstance penalty to all Speeds for 10 minutes.</p>"
 		},
-		{
-			"id": "Effect: Splintered Ground (Critical Failure)",
+		"Effect: Splintered Ground (Critical Failure)": {
 			"name": "Effect: Splintered Ground (Critical Failure)",
 			"description": "<p>Granted by the Splintered Ground ability of the @Compendium[pf2e.pathfinder-bestiary.myEeYWWAgnkLwtIb]{Skulltaker}</p>\n<p>The affected creature takes a -15-foot circumstance penalty to all Speeds for 10 minutes.</p>"
 		},
-		{
-			"id": "Effect: Stick a Fork in It",
+		"Effect: Stick a Fork in It": {
 			"name": "Effect: Stick a Fork in It",
 			"description": "<p>The creature takes a -10-foot circumstance penalty to its Speeds.</p>"
 		},
-		{
-			"id": "Effect: Stoke the Fervent - High Tormentor",
+		"Effect: Stoke the Fervent - High Tormentor": {
 			"name": "Effect: Stoke the Fervent - High Tormentor",
 			"description": "<p>Each ally that hears the call gains a +4 status bonus to attack rolls and damage rolls, a +2 status bonus to saving throws, and takes a -2 status penalty to AC. Affected allies must use at least one of their actions to Strike each round, if they are able even if it means attacking an ally, object, or thin air).</p>\n<p>The effect duration has been set to the average duration for [[/br 2d4 #rounds]]{2d4 rounds}. Set the duration to the correct value when the effect is added.</p>"
 		},
-		{
-			"id": "Effect: Swig",
+		"Effect: Swig": {
 			"name": "Effect: Swig",
 			"description": ""
 		},
-		{
-			"id": "Effect: Tail Lash (Attack Roll)",
+		"Effect: Tail Lash (Attack Roll)": {
 			"name": "Effect: Tail Lash (Attack Roll)",
 			"description": "<p>The creature takes a -2 circumstance penalty to the triggering attack roll.</p>"
 		},
-		{
-			"id": "Effect: Tail Lash (Skill Check)",
+		"Effect: Tail Lash (Skill Check)": {
 			"name": "Effect: Tail Lash (Skill Check)",
 			"description": "<p>The creature takes a -2 circumstance penalty to the triggering skill check.</p>"
 		},
-		{
-			"id": "Effect: Take Them Down!",
+		"Effect: Take Them Down!": {
 			"name": "Effect: Take Them Down!",
 			"description": "<p>The duergar taskmaster smashes their maul into the ground and invokes Droskar's name to rally their allies to action. All allied duergars of equal or lower level that are within 20 feet of the duergar taskmaster gain a +1 status bonus to attack rolls and damage rolls until the end of the duergar taskmaster's next turn.</p>"
 		},
-		{
-			"id": "Effect: Timely Advice",
+		"Effect: Timely Advice": {
 			"name": "Effect: Timely Advice",
 			"description": "<p>The sage gives the ally a savvy piece of advice, providing valuable insight. The ally gains a +2 circumstance bonus to the triggering roll.</p>"
 		},
-		{
-			"id": "Effect: Transfer Protection",
+		"Effect: Transfer Protection": {
 			"name": "Effect: Transfer Protection",
 			"description": "<p>The creature gains a +1 status bonus to AC and saves against evil creatures.</p>"
 		},
-		{
-			"id": "Effect: Uncanny Tinker (Critical Success)",
+		"Effect: Uncanny Tinker (Critical Success)": {
 			"name": "Effect: Uncanny Tinker (Critical Success)",
 			"description": ""
 		},
-		{
-			"id": "Effect: Void Shroud",
+		"Effect: Void Shroud": {
 			"name": "Effect: Void Shroud",
 			"description": "<p>Living creatures in the emanation take a –2 status penalty to saves against fear and death effects.</p>"
 		},
-		{
-			"id": "Effect: Volcanic Purge",
+		"Effect: Volcanic Purge": {
 			"name": "Effect: Volcanic Purge",
 			"description": "<p>The target takes [[/r {4d6}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Fire Damage}, and as long as it has this persistent fire damage, it also takes a -10-foot status penalty to its Speeds.</p>"
 		}
-	]
+	}
 }
