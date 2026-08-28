@@ -1,295 +1,237 @@
 {
 	"label": "特徴効果",
-	"entries": [
-		{
-			"id": "Effect: Aberrant Blood Magic",
+	"entries": {
+		"Effect: Aberrant Blood Magic": {
 			"name": "効果: 異形の血脈魔法",
 			"description": "<p>異形の囁きが1体の対象か君自身の精神を守り、1ラウンド、意志セーヴィング・スローに+2ステータス・ボーナスを与える。</p>"
 		},
-		{
-			"id": "Effect: Angelic Blood Magic",
+		"Effect: Angelic Blood Magic": {
 			"name": "効果: 天使の血脈魔法",
 			"description": "<p>天使のオーラが君あるいは1体の対象を守り、1ラウンド、セーヴィング・スローに+1ステータス・ボーナスを与える。</p>"
 		},
-		{
-			"id": "Effect: Battle Medicine Immunity",
+		"Effect: Battle Medicine Immunity": {
 			"name": "効果: 軍医の耐性",
 			"description": "<p>誰かが君に@Compendium[pf2e.feats-srd.wYerMk6F1RZb0Fwt]{「軍医」}を使ったことによる効果。君は持続時間の間、その人物からの「軍医」に耐性を持つ。</p>"
 		},
-		{
-			"id": "Effect: Celestial Wings",
+		"Effect: Celestial Wings": {
 			"name": "Effect: Celestial Wings",
 			"description": "<p>Granted by @Compendium[pf2e.feats-srd.vtCrMziYxNyj8kP7]{Celestial Wings}</p>\n<p>You gain a fly Speed equal to your Speed while you've manifested your wings.</p>"
 		},
-		{
-			"id": "Effect: Debilitating Strike",
+		"Effect: Debilitating Strike": {
 			"name": "効果: 弱体化打撃",
 			"description": "<p>対象はローグの@Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{「弱体化打撃」}の効果を受けている。</p>\n<p><em>メモ: これは、弱体化の持続時間を記録しているだけである。君は手動でローグが適用することを選んだ特定のペナルティを適用する。</em></p>"
 		},
-		{
-			"id": "Effect: Demonic Blood Magic (Self)",
+		"Effect: Demonic Blood Magic (Self)": {
 			"name": "効果: 魔鬼の血脈魔法（自分）",
 			"description": "<p>罪の堕落は君の罪をより重いものにする。君は1ラウンド、〈威圧〉判定に+1ステータス・ボーナスを得る。</p>"
 		},
-		{
-			"id": "Effect: Demonic Blood Magic (Target)",
+		"Effect: Demonic Blood Magic (Target)": {
 			"name": "効果: 魔鬼の血脈魔法（対象）",
 			"description": "<p>罪の堕落は対象の防御を弱める。対象はACに1ラウンド、-1ペナルティを受ける。</p>"
 		},
-		{
-			"id": "Effect: Diabolic Blood Magic (Self)",
+		"Effect: Diabolic Blood Magic (Self)": {
 			"name": "効果: 悪魔の血脈魔法（自分）",
 			"description": "<p>地獄の炎が、君の舌を嘘で満たす。1ラウンド、君は〈欺瞞〉に+1ステータス・ボーナスを受ける。</p>"
 		},
-		{
-			"id": "Effect: Draconic Blood Magic",
+		"Effect: Draconic Blood Magic": {
 			"name": "効果: 竜の血脈魔法",
 			"description": "<p>ドラゴンの鱗が君か一人の対象に急に成長し、1ラウンド、ACに+1ステータス・ボーナスを与える。</p>"
 		},
-		{
-			"id": "Effect: Elemental Blood Magic (Self)",
+		"Effect: Elemental Blood Magic (Self)": {
 			"name": "効果: 元素の血脈魔法",
 			"description": "<p>元素のエネルギーが君か対象を囲む。君は1ラウンド、〈威圧〉判定に+1ステータス・ボーナスを得る。</p>"
 		},
-		{
-			"id": "Effect: Enduring Debilitating Strike",
+		"Effect: Enduring Debilitating Strike": {
 			"name": "効果: 永続する弱体化",
 			"description": "<p>対象がローグの@Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{弱体化打撃}を受けており、そのローグが@Compendium[pf2e.feats-srd.RzfWrOqHL2GcK0rr]{《永続する弱体化》}を持っている場合。</p>\n<p><em>メモ: これは、弱体化の持続時間を記録しているだけである。君は手動でローグが適用することを選んだ特定のペナルティを適用する。</em></p>"
 		},
-		{
-			"id": "Effect: Fey Blood Magic",
+		"Effect: Fey Blood Magic": {
 			"name": "効果: フェイの血脈魔法",
 			"description": "<p>色彩豊かなフェイの魅力的な踊りが君か１体の対象の周りにあり、1ラウンド、対象を視認困難状態にする。このような明らかな視認困難は、「隠れる」に使うことは出来ない。</p>"
 		},
-		{
-			"id": "Effect: Genie Blood Magic (Self)",
+		"Effect: Genie Blood Magic (Self)": {
 			"name": "効果: ジーニーの血脈魔法（自分）",
 			"description": "<p>君の呪文発動は真実を歪める。君は1ラウンド、〈欺瞞〉判定に+1ステータス・ボーナスを得る。</p>"
 		},
-		{
-			"id": "Effect: Genie Blood Magic (Target)",
+		"Effect: Genie Blood Magic (Target)": {
 			"name": "効果: ジーニーの血脈魔法（対象）",
 			"description": "<p>君の呪文発動は敵を妨害する。対象は1ラウンド、知覚に－1ステータス・ペナルティを受ける。</p>"
 		},
-		{
-			"id": "Effect: Hag Blood Magic",
+		"Effect: Hag Blood Magic": {
 			"name": "効果:ハグの血脈魔法",
 			"description": "<p>悪意のある呪いが君の敵を罰する。君の次の手番の終了以前に、君に最初にダメージを与えたクリーチャーは、呪文レベル１レベルごとに2点の精神ダメージを受け、基本意志セーヴを試みなくてはならない。</p>"
 		},
-		{
-			"id": "Effect: Hydration",
+		"Effect: Hydration": {
 			"name": "効果: Hydration",
 			"description": "<p>Granted by @Compendium[pf2e.ancestryfeatures.vt67b8uoNEbskcBv]{Hydration} if you spend 24 hours outside of water.</p>"
 		},
-		{
-			"id": "Effect: Imperial Blood Magic",
+		"Effect: Imperial Blood Magic": {
 			"name": "効果: 帝国の血脈魔法",
 			"description": "<p>祖先の記憶の活性によって君か1体の対象は1ラウンド、技能判定に+1ステータス・ボーナスを得る。</p>"
 		},
-		{
-			"id": "Effect: Major Battle Curse",
+		"Effect: Major Battle Curse": {
 			"name": "Effect: Major Battle Curse",
 			"description": "<p>Your body proves capable of truly heroic feats, but doing so interferes with your mental focus.</p>\n<p>You take a -2 status penalty to AC and saving throws, and are @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 2}.</p>\n<p>You gain a +6 status bonus to weapon and unarmed damage rolls, and a +1 status bonus to weapon and unarmed attack rolls.</p>\n<p>You also gain fast healing equal to your level while in a non-trivial combat encounter.</p>\n<hr />\n<p><em>Note: You need to apply the stupefied condition and fast healing manually. The remaining effects are applied automatically.</em></p>"
 		},
-		{
-			"id": "Effect: Major Bones Curse",
+		"Effect: Major Bones Curse": {
 			"name": "Effect: Major Bones Curse",
 			"description": "<p>You stand just steps from the grave.</p>\n<p>Non-magical effects that would restore your Hit Points only grant you half as many HP as normal.</p>\n<p>You become @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 1}, and this drained condition is cumulative with any other drained conditions you gain. This drained condition is removed only when you Refocus; effects that normally remove the drained condition reduce your drained condition to drained 1 instead.</p>\n<p>You become @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Wounded 1}. This wounded condition is removed only when you Refocus; effects that normally remove the wounded condition reduce your wounded condition to wounded 1 instead.</p>\n<p>In addition, you gain resistance to poison equal to half your level.</p>\n<p>You gain a +4 status bonus to saves against diseases, poisons, and death effects, and if you roll a success on such a save, you get a critical success instead. If you roll a critical failure on a save against a disease, poison, or death effect, you get a failure instead.</p>\n<p>When you would attempt a recovery check, you can choose to get an automatic success instead of rolling.</p>\n<hr />\n<p><em>Note: The bonus to saving throws is applied automatically. You need to apply the remaining effects manually.</em></p>"
 		},
-		{
-			"id": "Effect: Major Cosmos Curse",
+		"Effect: Major Cosmos Curse": {
 			"name": "Effect: Major Cosmos Curse",
 			"description": "<p>As your body rises, you float just above the ground beneath you.</p>\n<p>You become @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 4}, and take a -4 penalty to saves and DCs against @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove}, and other forms of forced movement.</p>\n<p>You are treated as one size smaller for wind effects. You gain a +2 status bonus against @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trip} attempts, you only take half as much damage from falls, and you gain the effects of the @Compendium[pf2e.feats-srd.HJYQlmGTdtyGWr6a]{Powerful Leap} and @Compendium[pf2e.feats-srd.ZBhvJ9O8MvBFAlhq]{Quick Jump} skill feats. You weigh only half as much, and your Bulk, should someone need to carry you, is also half as much.</p>\n<p>You can walk on liquids as if they were solid; you gain the effects of the @Compendium[pf2e.feats-srd.TVFfTP9fHRidwBlW]{Cloud Jump} skill feat; and you don't leave tracks, trigger weight-sensitive pressure plates, or otherwise connect with the ground below you.</p>\n<hr />\n<p><em>Note: The bonus and penalties to saving throws are applied automatically. You need to apply the remaining effects manually.</em></p>"
 		},
-		{
-			"id": "Effect: Major Flames Curse",
+		"Effect: Major Flames Curse": {
 			"name": "Effect: Major Flames Curse",
 			"description": "<p>The flames surrounding you are no longer simply visions.</p>\n<p>You are @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} from other creatures, though as the other creatures aren't cursed themselves, they can benefit from effects that would allow them to ignore or mitigate the concealed condition, as normal. All other creatures and objects are concealed from you regardless of distance; however, when casting a fire spell, you automatically succeed at the flat check for this concealed condition for targets within 30 feet.</p>\n<p>All your senses become imprecise beyond 30 feet, meaning everything past 30 feet that you'd normally be able to see is @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden} from you.</p>\n<p>An aura of fire surrounds you in a 10-foot emanation, dealing [[/r {4d6}[fire]]] fire damage (basic Reflex save) to all other creatures in the aura at the end of each of your turns. You lose [[/r {1d6}[healing]]] Hit Points at the end of your turn each round, with no save; if you have a weakness to fire, increase the number of HP you lose by that weakness.</p>\n<p>You can suppress your aura until the start of your next turn by spending a single action, which has the concentrate trait, to diminish the flames, causing neither you nor anyone in the aura to take damage. While Refocusing to reduce your curse, you are continually diminishing the flames, so you don't lose HP. The flames subside if you fall @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious}, but they resume when you wake up unless you rested for long enough to reset your curse. As usual for oracular curses, you can't mitigate or reduce the lost Hit Points in any way, though you can still heal the lost HP normally after the fact.</p>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Major Life Curse",
+		"Effect: Major Life Curse": {
 			"name": "Effect: Major Life Curse",
 			"description": "<p>Life energy tears through you to empower your magic. Some of your spells carry positive energy with them.</p>\n<p>Effects that restore Hit Points to you take a status penalty equal to half your level (minimum 1) to the number of HP you recover. In addition, you can't be healed by magical effects originating from other creatures. However, if you are unconscious, magical effects can restore you to 1 HP (but no higher). You are affected normally by healing elixirs, potions, and other items.</p>\n<p>When you cast <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em> and all your targets are living creatures, you roll d12s instead of d8s for the amount of healing.</p>\n<p>Whenever you finish casting a non-cantrip spell, you restore Hit Points equal to the spell level to your choice of either one target of the spell or the creature nearest to you. You can't heal yourself in this way. This healing has the healing, necromancy, and positive traits, as well as the tradition trait of the spell.</p>\n<p>Each time you use a spell slot to cast a 5th-level or higher spell that takes 2 or more actions to cast, you disperse positive energy in a 30-foot burst with the effects of a 3-action <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em> spell with a level 4 lower than that of the spell you cast. This healing occurs immediately after you finish Casting the Spell. You don't benefit from this healing. Instead, you lose double the number of Hit Points rolled for the heal spell.</p>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Major Lore Curse",
+		"Effect: Major Lore Curse": {
 			"name": "Effect: Major Lore Curse",
 			"description": "<p>The massive flow of information clouding your mind overwhelms your ability to communicate with others. You can understand all languages, but you can't speak, use linguistic effects, or otherwise communicate with your allies.</p>\n<p>You take a -4 penalty to initiative, as trying to process a surge of information about what's happening around you slows your ability to respond to it.</p>\n<p>The attention you divert to process this huge influx of information means you are always @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed}.</p>\n<p>At the start of each of your turns, you automatically make one check to @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Recall Knowledge} as a free action. This uses a skill of your choice that has the Recall Knowledge action, using a result equal to 10 + your proficiency bonus in that skill (with no other bonuses, penalties, or modifiers).</p>\n<p>If you Cast a Spell with a verbal component, you must succeed at a DC 5 flat check or the spell is lost.</p>\n<p>You gain a +4 status bonus on saving throws against linguistic effects.</p>\n<hr />\n<p><em>Note: The bonus to saving throws and penalty to initiative rolls are applied automatically. You need to apply the remaining effects manually.</em></p>"
 		},
-		{
-			"id": "Effect: Major Martial Ancestor Curse",
+		"Effect: Major Martial Ancestor Curse": {
 			"name": "Effect: Major Martial Ancestor Curse",
 			"description": "<p>One of your ancestors becomes predominant in their meddling. The first time you gain this effect each day, roll [[/r 1d4]] on the list below to determine which type of ancestor becomes predominant.</p>\n<p>This predominant ancestor guides you to use their preferred type of action, and you get the major curse benefit listed for your predominant ancestor in the list below. When you try to use one of the types of actions listed for the other ancestors, you must succeed at a DC 8 flat check. On a failure, you spend the action but gain no effect (though you don't lose the spell if you were Casting a Spell). If your action would take 1 minute or longer, it's long enough that you can overcome the meddling, and you don't need to attempt a flat check.</p>\n<p>During combat or another tense, round-by-round encounter, other ancestors wrestle for control of your actions. When you roll initiative, and then at the end of each of your turns during the encounter, roll [[/r 1d4]] and change your predominant ancestor appropriately. Once the encounter ends, you return to the influence of the ancestor you first rolled for the day.</p>\n<h4>Ancestral Influence</h4>\n<ol>\n<li>Martial Ancestor\n<ul>\n<li><strong>Preferred action</strong> Strikes</li>\n<li><strong>Major curse benefit</strong> Your Strikes gain a +1 status bonus to attack rolls and a +6 status bonus to damage</li>\n</ul>\n</li>\n<li>Skillful Ancestor\n<ul>\n<li><strong>Preferred action</strong> Perception and Skill actions</li>\n</ul>\n</li>\n<li>Spellcasting Ancestor\n<ul>\n<li><strong>Preferred action</strong> Cast a Spell</li>\n</ul>\n</li>\n<li>You choose which ancestor guides your actions</li>\n</ol>\n<hr />\n<p><em>Note: You need to apply the flat check when using another ancestor's preferred action manually. The remaining effects are applied automatically.</em></p>"
 		},
-		{
-			"id": "Effect: Major Skillful Ancestor Curse",
+		"Effect: Major Skillful Ancestor Curse": {
 			"name": "Effect: Major Skillful Ancestor Curse",
 			"description": "<p>One of your ancestors becomes predominant in their meddling. The first time you gain this effect each day, roll [[/r 1d4]] on the list below to determine which type of ancestor becomes predominant.</p>\n<p>This predominant ancestor guides you to use their preferred type of action, and you get the major curse benefit listed for your predominant ancestor in the list below. When you try to use one of the types of actions listed for the other ancestors, you must succeed at a DC 8 flat check. On a failure, you spend the action but gain no effect (though you don't lose the spell if you were Casting a Spell). If your action would take 1 minute or longer, it's long enough that you can overcome the meddling, and you don't need to attempt a flat check.</p>\n<p>During combat or another tense, round-by-round encounter, other ancestors wrestle for control of your actions. When you roll initiative, and then at the end of each of your turns during the encounter, roll [[/r 1d4]] and change your predominant ancestor appropriately. Once the encounter ends, you return to the influence of the ancestor you first rolled for the day.</p>\n<h4>Ancestral Influence</h4>\n<ol>\n<li>Martial Ancestor\n<ul>\n<li><strong>Preferred action</strong> Strikes</li>\n</ul>\n</li>\n<li>Skillful Ancestor\n<ul>\n<li><strong>Preferred action</strong> Perception and Skill actions</li>\n<li><strong>Major curse benefit</strong> You gain a +2 status bonus to skill checks and Perception checks.</li>\n</ul>\n</li>\n<li>Spellcasting Ancestor\n<ul>\n<li><strong>Preferred action</strong> Cast a Spell</li>\n</ul>\n</li>\n<li>You choose which ancestor guides your actions</li>\n</ol>\n<hr />\n<p><em>Note: You need to apply the flat check when using another ancestor's preferred action manually. The remaining effects are applied automatically.</em></p>"
 		},
-		{
-			"id": "Effect: Major Spellcasting Ancestor Curse",
+		"Effect: Major Spellcasting Ancestor Curse": {
 			"name": "Effect: Major Spellcasting Ancestor Curse",
 			"description": "<p>One of your ancestors becomes predominant in their meddling. The first time you gain this effect each day, roll [[/r 1d4]] on the list below to determine which type of ancestor becomes predominant.</p>\n<p>This predominant ancestor guides you to use their preferred type of action, and you get the major curse benefit listed for your predominant ancestor in the list below. When you try to use one of the types of actions listed for the other ancestors, you must succeed at a DC 8 flat check. On a failure, you spend the action but gain no effect (though you don't lose the spell if you were Casting a Spell). If your action would take 1 minute or longer, it's long enough that you can overcome the meddling, and you don't need to attempt a flat check.</p>\n<p>During combat or another tense, round-by-round encounter, other ancestors wrestle for control of your actions. When you roll initiative, and then at the end of each of your turns during the encounter, roll [[/r 1d4]] and change your predominant ancestor appropriately. Once the encounter ends, you return to the influence of the ancestor you first rolled for the day.</p>\n<h4>Ancestral Influence</h4>\n<ol>\n<li>Martial Ancestor\n<ul>\n<li><strong>Preferred action</strong> Strikes</li>\n</ul>\n</li>\n<li>Skillful Ancestor\n<ul>\n<li><strong>Preferred action</strong> Perception and Skill actions</li>\n</ul>\n</li>\n<li>Spellcasting Ancestor\n<ul>\n<li><strong>Preferred action</strong> Cast a Spell</li>\n<li><strong>Major curse benefit</strong> Non-cantrip spells without a duration gain a status bonus to their damage and healing equal to the spell's level + 3.</li>\n</ul>\n</li>\n<li>You choose which ancestor guides your actions</li>\n</ol>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Major Tempest Curse",
+		"Effect: Major Tempest Curse": {
 			"name": "Effect: Major Tempest Curse",
 			"description": "<p>An aura of a whirling storm whips up in a 15-foot emanation around you and in your space. The aura puts out small non-magical fires 1 round after they're lit or brought into your aura. The whirling winds impose a -2 circumstance penalty on ranged attack rolls using physical ammunition that target you or originate from you.</p>\n<p>High winds blowing outward in the aura impede creatures' progress. The aura is difficult terrain for Large and smaller creatures on the ground, and for Huge or smaller flying creatures. You aren't affected by this difficult terrain.</p>\n<p>Electrical energy builds up within your storm, turning you into a lightning rod; you gain weakness 5 (or half your level, whichever is greater) to electricity, but torrential rain grants you an equal amount of fire resistance. Electricity spells or effects that have additional effects for a creature wearing or holding metal treat you as though you were wearing metal.</p>\n<p>The electricity arcing through you becomes dangerous. Any creature that touches you, including with a touch spell or a melee unarmed attack, takes [[/r {1d6}[electricity]]] electricity damage</p>\n<hr />\n<p><em>Note: The penalty to ranged attack rolls that you make</em><em> is applied automatically. You need to apply the remaining effects manually.</em></p>"
 		},
-		{
-			"id": "Effect: Minor Battle Curse",
+		"Effect: Minor Battle Curse": {
 			"name": "Effect: Minor Battle Curse",
 			"description": "<p>Your body languishes when you aren't bringing harm to your foes.</p>\n<p>You take a -2 status penalty to AC and saving throws, but each time you make a Strike, you can suspend these penalties until the start of your next turn.</p>\n<hr />\n<p><em>Note: The effects of this curse are applied automatically.</em></p>"
 		},
-		{
-			"id": "Effect: Minor Bones Curse",
+		"Effect: Minor Bones Curse": {
 			"name": "Effect: Minor Bones Curse",
 			"description": "<p>Bones protrude through your skin and your flesh rots, combining with a stench of decay and an unearthly chill.</p>\n<p>Non-magical effects that would restore your Hit Points only grant you half as many HP as normal.</p>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Minor Cosmos Curse",
+		"Effect: Minor Cosmos Curse": {
 			"name": "Effect: Minor Cosmos Curse",
 			"description": "<p>Your unnatural lightness makes it hard to keep your footing and interact with other physical objects.</p>\n<p>You are @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 1} and take a -2 penalty to saves and DCs against @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove}, and other forms of forced movement.</p>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Minor Flames Curse",
+		"Effect: Minor Flames Curse": {
 			"name": "Effect: Minor Flames Curse",
 			"description": "<p>The smoke, heat, and crackling flames of your curse fill your vision and all your other senses.</p>\n<p>Creatures further than 30 feet are @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} from you. You can't benefit from effects that would allow you to ignore or mitigate this concealment, as normal for effects of an oracular curse.</p>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Minor Life Curse",
+		"Effect: Minor Life Curse": {
 			"name": "Effect: Minor Life Curse",
 			"description": "<p>As your life force seeps outward, it becomes more difficult to keep your body functioning.</p>\n<p>Effects that restore Hit Points to you take a status penalty equal to half your level (minimum 1) to the number of HP you recover.</p>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Minor Lore Curse",
+		"Effect: Minor Lore Curse": {
 			"name": "Effect: Minor Lore Curse",
 			"description": "<p>You take a -4 penalty to initiative, as trying to process a surge of information about what's happening around you slows your ability to respond to it.</p>\n<hr />\n<p><em>Note: The effects of this curse are applied automatically.</em></p>"
 		},
-		{
-			"id": "Effect: Minor Martial Ancestor Curse",
+		"Effect: Minor Martial Ancestor Curse": {
 			"name": "Effect: Minor Martial Ancestor Curse",
 			"description": "<p>One of your ancestors becomes predominant in their meddling. The first time you gain this effect each day, roll [[/r 1d4]] on the list below to determine which type of ancestor becomes predominant.</p>\n<p>This predominant ancestor guides you to use their preferred type of action. When you try to use one of the types of actions listed for the other ancestors, you must succeed at a DC 4 flat check. On a failure, you spend the action but gain no effect (though you don't lose the spell if you were Casting a Spell). If your action would take 1 minute or longer, it's long enough that you can overcome the meddling, and you don't need to attempt a flat check.</p>\n<p>During combat or another tense, round-by-round encounter, other ancestors wrestle for control of your actions. When you roll initiative, and then at the end of each of your turns during the encounter, roll [[/r 1d4]] and change your predominant ancestor appropriately. Once the encounter ends, you return to the influence of the ancestor you first rolled for the day.</p>\n<h4>Ancestral Influence</h4>\n<ol>\n<li>Martial Ancestor\n<ul>\n<li><strong>Preferred action</strong> Strikes</li>\n</ul>\n</li>\n<li>Skillful Ancestor\n<ul>\n<li><strong>Preferred action</strong> Perception and Skill actions</li>\n</ul>\n</li>\n<li>Spellcasting Ancestor\n<ul>\n<li><strong>Preferred action</strong> Cast a Spell</li>\n</ul>\n</li>\n<li>You choose which ancestor guides your actions</li>\n</ol>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Minor Skillful Ancestor Curse",
+		"Effect: Minor Skillful Ancestor Curse": {
 			"name": "Effect: Minor Skillful Ancestor Curse",
 			"description": "<p>One of your ancestors becomes predominant in their meddling. The first time you gain this effect each day, roll [[/r 1d4]] on the list below to determine which type of ancestor becomes predominant.</p>\n<p>This predominant ancestor guides you to use their preferred type of action. When you try to use one of the types of actions listed for the other ancestors, you must succeed at a DC 4 flat check. On a failure, you spend the action but gain no effect (though you don't lose the spell if you were Casting a Spell). If your action would take 1 minute or longer, it's long enough that you can overcome the meddling, and you don't need to attempt a flat check.</p>\n<p>During combat or another tense, round-by-round encounter, other ancestors wrestle for control of your actions. When you roll initiative, and then at the end of each of your turns during the encounter, roll [[/r 1d4]] and change your predominant ancestor appropriately. Once the encounter ends, you return to the influence of the ancestor you first rolled for the day.</p>\n<h4>Ancestral Influence</h4>\n<ol>\n<li>Martial Ancestor\n<ul>\n<li><strong>Preferred action</strong> Strikes</li>\n</ul>\n</li>\n<li>Skillful Ancestor\n<ul>\n<li><strong>Preferred action</strong> Perception and Skill actions</li>\n</ul>\n</li>\n<li>Spellcasting Ancestor\n<ul>\n<li><strong>Preferred action</strong> Cast a Spell</li>\n</ul>\n</li>\n<li>You choose which ancestor guides your actions</li>\n</ol>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Minor Spellcaster Ancestor Curse",
+		"Effect: Minor Spellcaster Ancestor Curse": {
 			"name": "Effect: Minor Spellcaster Ancestor Curse",
 			"description": "<p>One of your ancestors becomes predominant in their meddling. The first time you gain this effect each day, roll [[/r 1d4]] on the list below to determine which type of ancestor becomes predominant.</p>\n<p>This predominant ancestor guides you to use their preferred type of action. When you try to use one of the types of actions listed for the other ancestors, you must succeed at a DC 4 flat check. On a failure, you spend the action but gain no effect (though you don't lose the spell if you were Casting a Spell). If your action would take 1 minute or longer, it's long enough that you can overcome the meddling, and you don't need to attempt a flat check.</p>\n<p>During combat or another tense, round-by-round encounter, other ancestors wrestle for control of your actions. When you roll initiative, and then at the end of each of your turns during the encounter, roll [[/r 1d4]] and change your predominant ancestor appropriately. Once the encounter ends, you return to the influence of the ancestor you first rolled for the day.</p>\n<h4>Ancestral Influence</h4>\n<ol>\n<li>Martial Ancestor\n<ul>\n<li><strong>Preferred action</strong> Strikes</li>\n</ul>\n</li>\n<li>Skillful Ancestor\n<ul>\n<li><strong>Preferred action</strong> Perception and Skill actions</li>\n</ul>\n</li>\n<li>Spellcasting Ancestor\n<ul>\n<li><strong>Preferred action</strong> Cast a Spell</li>\n</ul>\n</li>\n<li>You choose which ancestor guides your actions</li>\n</ol>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Minor Tempest Curse",
+		"Effect: Minor Tempest Curse": {
 			"name": "Effect: Minor Tempest Curse",
 			"description": "<p>An aura of a whirling storm whips up in a 5-foot emanation around you and in your space. The aura puts out small non-magical fires 1 round after they're lit or brought into your aura.</p>\n<p>Electrical energy builds up within your storm, turning you into a lightning rod; you gain weakness 2 to electricity, and electricity spells or effects that have additional effects for a creature wearing or holding metal treat you as though you were wearing metal.</p>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Moderate Battle Curse",
+		"Effect: Moderate Battle Curse": {
 			"name": "Effect: Moderate Battle Curse",
 			"description": "<p>The strain of conflict wears upon your body, even though you gain vitality from it.</p>\n<p>You take a -2 status penalty to AC and saving throws, but each time you make a Strike, you can reduce these penalties to -1 until the start of your next turn.</p>\n<p>You gain a +2 status bonus to weapon and unarmed damage rolls.</p>\n<p>You also gain fast healing equal to half your level while in a non-trivial combat encounter.</p>\n<hr />\n<p><em>Note: You need to apply fast healing manually. The remaining effects are applied automatically.</em></p>"
 		},
-		{
-			"id": "Effect: Moderate Bones Curse",
+		"Effect: Moderate Bones Curse": {
 			"name": "Effect: Moderate Bones Curse",
 			"description": "<p>Your dead flesh continues to rot, affecting your health.</p>\n<p>Non-magical effects that would restore your Hit Points only grant you half as many HP as normal.</p>\n<p>You become @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 1}, and this drained condition is cumulative with any other drained conditions you gain. This drained condition is removed only when you Refocus; effects that normally remove the drained condition reduce your drained condition to drained 1 instead.</p>\n<p>In addition, you gain resistance to poison equal to half your level.</p>\n<p>You gain a +4 status bonus to saves against diseases, poisons, and death effects, and if you roll a success on such a save, you get a critical success instead.</p>\n<hr />\n<p><em>Note: The bonus to saving throws is applied automatically. You need to apply the remaining effects manually.</em></p>"
 		},
-		{
-			"id": "Effect: Moderate Cosmos Curse",
+		"Effect: Moderate Cosmos Curse": {
 			"name": "Effect: Moderate Cosmos Curse",
 			"description": "<p>Your body is drawn further skyward.</p>\n<p>You are @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 2}, and take a -3 penalty to saves and DCs against @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove}, and other forms of forced movement.</p>\n<p>You are treated as one size smaller for wind effects. You gain a +2 status bonus against @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trip} attempts, you only take half as much damage from falls, and you gain the effects of the @Compendium[pf2e.feats-srd.HJYQlmGTdtyGWr6a]{Powerful Leap} and @Compendium[pf2e.feats-srd.ZBhvJ9O8MvBFAlhq]{Quick Jump} skill feats. You weigh only half as much, and your Bulk, should someone need to carry you, is also half as much.</p>\n<hr />\n<p><em>Note: The bonus and penalties to saving throws are applied automatically. You need to apply the remaining effects manually.</em></p>"
 		},
-		{
-			"id": "Effect: Moderate Flames Curse",
+		"Effect: Moderate Flames Curse": {
 			"name": "Effect: Moderate Flames Curse",
 			"description": "<p>Smoke and flickering visions of flame fill your senses more completely, and harmless flickers of obscuring flames also fill your space.</p>\n<p>You are @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} from other creatures, though as the other creatures aren't cursed themselves, they can benefit from effects that would allow them to ignore or mitigate the concealed condition, as normal. All other creatures and objects are concealed from you regardless of distance; however, when casting a fire spell, you automatically succeed at the flat check for this concealed condition for targets within 30 feet.</p>\n<p>All your senses become imprecise beyond 30 feet, meaning everything past 30 feet that you'd normally be able to see is @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden} from you.</p>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Moderate Life Curse",
+		"Effect: Moderate Life Curse": {
 			"name": "Effect: Moderate Life Curse",
 			"description": "<p>The flow of life energy away from you can't be reversed.</p>\n<p>Effects that restore Hit Points to you take a status penalty equal to half your level (minimum 1) to the number of HP you recover. In addition, you can't be healed by magical effects originating from other creatures. However, if you are unconscious, magical effects can restore you to 1 HP (but no higher). You are affected normally by healing elixirs, potions, and other items.</p>\n<p>When you cast <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em> and all your targets are living creatures, you roll d12s instead of d8s for the amount of healing.</p>\n<p>Whenever you finish casting a non-cantrip spell, you restore Hit Points equal to the spell level to your choice of either one target of the spell or the creature nearest to you. You can't heal yourself in this way. This healing has the healing, necromancy, and positive traits, as well as the tradition trait of the spell.</p>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Moderate Lore Curse",
+		"Effect: Moderate Lore Curse": {
 			"name": "Effect: Moderate Lore Curse",
 			"description": "<p>The flow of information through your mind grows.</p>\n<p>You take a -4 penalty to initiative, as trying to process a surge of information about what's happening around you slows your ability to respond to it.</p>\n<p>The attention you divert to process this huge influx of information means you are always @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed}.</p>\n<p>At the start of each of your turns, you automatically make one check to @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Recall Knowledge} as a free action. This uses a skill of your choice that has the Recall Knowledge action, using a result equal to 10 + your proficiency bonus in that skill (with no other bonuses, penalties, or modifiers).</p>\n<hr />\n<p><em>Note: The penalty to initiative rolls is applied automatically. You need to apply the remaining effects manually.</em></p>"
 		},
-		{
-			"id": "Effect: Moderate Martial Ancestor Curse",
+		"Effect: Moderate Martial Ancestor Curse": {
 			"name": "Effect: Moderate Martial Ancestor Curse",
 			"description": "<p>One of your ancestors becomes predominant in their meddling. The first time you gain this effect each day, roll [[/r 1d4]] on the list below to determine which type of ancestor becomes predominant.</p>\n<p>This predominant ancestor guides you to use their preferred type of action, and you get the moderate curse benefit listed for your predominant ancestor in the list below. When you try to use one of the types of actions listed for the other ancestors, you must succeed at a DC 6 flat check. On a failure, you spend the action but gain no effect (though you don't lose the spell if you were Casting a Spell). If your action would take 1 minute or longer, it's long enough that you can overcome the meddling, and you don't need to attempt a flat check.</p>\n<p>During combat or another tense, round-by-round encounter, other ancestors wrestle for control of your actions. When you roll initiative, and then at the end of each of your turns during the encounter, roll [[/r 1d4]] and change your predominant ancestor appropriately. Once the encounter ends, you return to the influence of the ancestor you first rolled for the day.</p>\n<h4>Ancestral Influence</h4>\n<ol>\n<li>Martial Ancestor\n<ul>\n<li><strong>Preferred action</strong> Strikes</li>\n<li><strong>Moderate curse benefit</strong> Your Strikes gain a +1 status bonus to attack rolls and a +2 status bonus to damage.</li>\n</ul>\n</li>\n<li>Skillful Ancestor\n<ul>\n<li><strong>Preferred action</strong> Perception and Skill actions</li>\n</ul>\n</li>\n<li>Spellcasting Ancestor\n<ul>\n<li><strong>Preferred action</strong> Cast a Spell</li>\n</ul>\n</li>\n<li>You choose which ancestor guides your actions</li>\n</ol>\n<hr />\n<p><em>Note: You need to apply the flat check when using another ancestor's preferred action manually. The remaining effects are applied automatically.</em></p>"
 		},
-		{
-			"id": "Effect: Moderate Skillful Ancestor Curse",
+		"Effect: Moderate Skillful Ancestor Curse": {
 			"name": "Effect: Moderate Skillful Ancestor Curse",
 			"description": "<p>One of your ancestors becomes predominant in their meddling. The first time you gain this effect each day, roll [[/r 1d4]] on the list below to determine which type of ancestor becomes predominant.</p>\n<p>This predominant ancestor guides you to use their preferred type of action, and you get the moderate curse benefit listed for your predominant ancestor in the list below. When you try to use one of the types of actions listed for the other ancestors, you must succeed at a DC 6 flat check. On a failure, you spend the action but gain no effect (though you don't lose the spell if you were Casting a Spell). If your action would take 1 minute or longer, it's long enough that you can overcome the meddling, and you don't need to attempt a flat check.</p>\n<p>During combat or another tense, round-by-round encounter, other ancestors wrestle for control of your actions. When you roll initiative, and then at the end of each of your turns during the encounter, roll [[/r 1d4]] and change your predominant ancestor appropriately. Once the encounter ends, you return to the influence of the ancestor you first rolled for the day.</p>\n<h4>Ancestral Influence</h4>\n<ol>\n<li>Martial Ancestor\n<ul>\n<li><strong>Preferred action</strong> Strikes</li>\n</ul>\n</li>\n<li>Skillful Ancestor\n<ul>\n<li><strong>Preferred action</strong> Perception and Skill actions</li>\n<li><strong>Moderate curse benefit</strong> You gain a +1 status bonus to skill checks and Perception checks.</li>\n</ul>\n</li>\n<li>Spellcasting Ancestor\n<ul>\n<li><strong>Preferred action</strong> Cast a Spell</li>\n</ul>\n</li>\n<li>You choose which ancestor guides your actions</li>\n</ol>\n<hr />\n<p><em>Note: You need to apply the flat check when using another ancestor's preferred action manually. The remaining effects are applied automatically.</em></p>"
 		},
-		{
-			"id": "Effect: Moderate Spellcasting Ancestor Curse",
+		"Effect: Moderate Spellcasting Ancestor Curse": {
 			"name": "Effect: Moderate Spellcasting Ancestor Curse",
 			"description": "<p>One of your ancestors becomes predominant in their meddling. The first time you gain this effect each day, roll [[/r 1d4]] on the list below to determine which type of ancestor becomes predominant.</p>\n<p>This predominant ancestor guides you to use their preferred type of action, and you get the moderate curse benefit listed for your predominant ancestor in the list below. When you try to use one of the types of actions listed for the other ancestors, you must succeed at a DC 6 flat check. On a failure, you spend the action but gain no effect (though you don't lose the spell if you were Casting a Spell). If your action would take 1 minute or longer, it's long enough that you can overcome the meddling, and you don't need to attempt a flat check.</p>\n<p>During combat or another tense, round-by-round encounter, other ancestors wrestle for control of your actions. When you roll initiative, and then at the end of each of your turns during the encounter, roll [[/r 1d4]] and change your predominant ancestor appropriately. Once the encounter ends, you return to the influence of the ancestor you first rolled for the day.</p>\n<h4>Ancestral Influence</h4>\n<ol>\n<li>Martial Ancestor\n<ul>\n<li><strong>Preferred action</strong> Strikes</li>\n</ul>\n</li>\n<li>Skillful Ancestor\n<ul>\n<li><strong>Preferred action</strong> Perception and Skill actions</li>\n</ul>\n</li>\n<li>Spellcasting Ancestor\n<ul>\n<li><strong>Preferred action</strong> Cast a Spell</li>\n<li><strong>Moderate curse benefit</strong> Non-cantrip spells without a duration gain a status bonus to their damage and healing equal to the spell's level.</li>\n</ul>\n</li>\n<li>You choose which ancestor guides your actions</li>\n</ol>\n<hr />\n<p><em>Note: You need to apply the effects of this curse manually.</em></p>"
 		},
-		{
-			"id": "Effect: Moderate Tempest Curse",
+		"Effect: Moderate Tempest Curse": {
 			"name": "Effect: Moderate Tempest Curse",
 			"description": "<p>An aura of a whirling storm whips up in a 10-foot emanation around you and in your space. The aura puts out small non-magical fires 1 round after they're lit or brought into your aura. The whirling winds impose a -2 circumstance penalty on ranged attack rolls using physical ammunition that target you or originate from you.</p>\n<p>Electrical energy builds up within your storm, turning you into a lightning rod; you gain weakness 5 (or half your level, whichever is greater) to electricity, but torrential rain grants you an equal amount of fire resistance. Electricity spells or effects that have additional effects for a creature wearing or holding metal treat you as though you were wearing metal.</p>\n<hr />\n<p><em>Note: The penalty to ranged attack rolls that you make is applied automatically. You need to apply the remaining effects manually.</em></p>"
 		},
-		{
-			"id": "Effect: Nymph Blood Magic (Self)",
+		"Effect: Nymph Blood Magic (Self)": {
 			"name": "効果: ニンフの血脈魔法 (自分)",
 			"description": "<p>ニンフの優美さは君の移動を助ける。君は1ラウンド、〈交渉〉に+1ステータス・ボーナスを得る。</p>"
 		},
-		{
-			"id": "Effect: Nymph Blood Magic (Target)",
+		"Effect: Nymph Blood Magic (Target)": {
 			"name": "効果: ニンフの血脈魔法(対象)",
 			"description": "<p>ニンフの優美さは敵を煩わせる。1ラウンド、1体の対象が意志セーヴに－1ステータス・ペナルティを受ける</p>"
 		},
-		{
-			"id": "Effect: Panache",
+		"Effect: Panache": {
 			"name": "効果: 心意気",
 			"description": "<p>君は実際に自分がそれをそもそも達成したのかどうかと同じくらい、何かを達成する方法について気に掛けている。君が特に称賛を受ける行動を行った際、君はこの躍動する瞬間を、目を見張るような致命的な戦闘行為を行うために利用することが出来る。この洒落のみなぎった状態を心意気と呼ぶ。そして、君は心意気があるかないかのどちらかの状態である。（訳注:PF1では心意気はポイント制だったことによる記述）</p>\n<p> @Compendium[pf2e.classfeatures.LzYi0OuOoypNb6jd]{心意気}による効果</p>\n<p>適用される効果:</p>\n<ul>\n<li>心意気効果に心意気の属性を有効化</li>\n<li>トークン効果の設定</li>\n</ul>"
 		},
-		{
-			"id": "Effect: Psychopomp Blood Magic (Self)",
+		"Effect: Psychopomp Blood Magic (Self)": {
 			"name": "効果: サイコポンプの血脈魔法 (自分)",
 			"description": "<p>生と死の境目は、君にとっては定かではない。君は、1ラウンド、頑健セーヴィング・スローに+2ステータス・ボーナスを得る。</p>"
 		},
-		{
-			"id": "Effect: Rage",
+		"Effect: Rage": {
 			"name": "効果: 激怒",
 			"description": "<p><strong>条件</strong> 君が@Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{疲労}状態か激怒中でないこと</p>\n<hr />\n<p>君は内なる激情に触れ、激怒を開始する。君はレベル＋耐久力修正値に等しい一時的ヒット・ポイントを得る。この逆上は1分間経つか、君が認識している敵がいなくなるか、君が@Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{気絶}するかするまで続く。君は自発的に激怒を止めることは出来ない。激怒している間、君は：</p>\n<ul>\n<li>君は近接武器と素手打撃で２点の追加ダメージを与える。このダメージは、君の武器か素手打撃が機敏の特性を持つなら、半減する。</li>\n<li>君はACに-1ペナルティを受ける。</li>\n<li>君は激怒の特性を持たず、かつ、精神集中の特性を持つアクションを使うことができない。君は激怒中も@Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{「捜す」}ことができる。</li>\n</ul>\n<p>激怒を止めた後、君は「激怒」から得た全ての残っている一時ヒット・ポイントを失い、１分間、再び「激怒」することができない。</p>\n<p>適用される効果:</p>\n<ul>\n<li>レベルと耐久力修正値に基づいた一時的ヒット・ポイント</li>\n<li>特性に応じた激怒ダメージを有効化</li>\n<li>トークン効果の設定</li>\n</ul>"
 		},
-		{
-			"id": "Effect: Shadow Blood Magic (Perception)",
+		"Effect: Shadow Blood Magic (Perception)": {
 			"name": "効果: 影の血脈魔法 (知覚)",
 			"description": "<p>君か1体の対象の周囲の闇が深まり、1ラウンド、知覚に－1ステータス・ペナルティを与える。</p>"
 		},
-		{
-			"id": "Effect: Shadow Blood Magic (Stealth)",
+		"Effect: Shadow Blood Magic (Stealth)": {
 			"name": "効果: 影の血脈魔法 (〈隠密〉)",
 			"description": "<p>君か1体の対象の周囲の闇が深まり、1ラウンド、〈隠密〉に+1ステータス・ボーナスを与える。</p>"
 		},
-		{
-			"id": "Effect: Treat Wounds Immunity",
+		"Effect: Treat Wounds Immunity": {
 			"name": "効果: 傷の手当ての耐性",
 			"description": "<p>誰かが君に@Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{「傷の手当て」}をした時の効果。君はその人物からの「傷の手当て」に、この効果の持続時間の間、耐性を持つ。 </p>"
 		},
-		{
-			"id": "Effect: Wymblessed Blood Magic (Status Bonus - Self)",
+		"Effect: Wymblessed Blood Magic (Status Bonus - Self)": {
 			"name": "効果: 古竜の祝福の血脈魔法 (ステータス・ボーナス - 自分)",
 			"description": "<p>君の声は竜の力を運ぶ。君は1ラウンド、〈威圧〉判定に+1ステータス・ボーナスを得る。</p>"
 		},
-		{
-			"id": "Effect: Wymblessed Blood Magic (Status Penalty - Target)",
+		"Effect: Wymblessed Blood Magic (Status Penalty - Target)": {
 			"name": "効果: 古竜の祝福の血脈魔法 (ステータス・ペナルティ - 対象)",
 			"description": "<p>君の声は竜の力を運ぶ。対象は1ラウンド、意志セーヴに－1ステータス・ペナルティを受ける。</p>"
 		},
-		{
-			"id": "Stance: Arcane Cascade",
+		"Stance: Arcane Cascade": {
 			"name": "構え: 秘術の波濤",
 			"description": "<p><strong>条件</strong> 君が使った直近のアクションが「呪文の発動」か「呪文撃」である</p>\n<hr />\n<p>君は、呪文の魔力の一部を流用し、特殊なフォーム、呼吸法、フットワークを使って肉体と武器にそれを循環させる。この構えでいる間、君の近接「打撃」は[[/r {1}]]{追加で1点} のダメージを与える。このダメージは、君が武器開眼を持っているなら2点に、上級武器開眼を持っているなら3点に増える。このダメージによって利益を受ける「打撃」は全て、秘術の特性を持ち、魔法のものになる。</p>\n<p>もし、君が日前に入る直前の呪文がダメージを与えることが出来るものであったなら、構えによるダメージは、呪文が与えることが出来るダメージと同じ種別（あるいは、もしその呪文が複数のダメージ種別を与えるのなら、君が選んだ種別1つ）である。もし、この呪文がダメージを与えられないものであるなら、この構えのボーナス・ダメージはその呪文の系統によって異なる。</p>\n<ul>\n<li><strong>防御術</strong> あるいは <strong>力術</strong> 力場</li>\n<li><strong>召喚術</strong> あるいは <strong>変成術</strong> 君の武器あるいは素手打撃と同じ種別</li>\n<li><strong>占術</strong>、 <strong>心術</strong>、あるいは <strong>幻術</strong> 精神</li>\n<li><strong>死霊術</strong> 負のエネルギー</li>\n</ul>"
 		}
-	]
+	}
 }
