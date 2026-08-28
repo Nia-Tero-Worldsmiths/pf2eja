@@ -1,41 +1,44 @@
 {
-	"name": "pf2eja",
+	"id": "pf2eja",
 	"title": "日本語化（Pathfinder2e）",
 	"description": "PF2eを日本語化するためのMod",
-	"version": "1.13",
-	"author": "Brother Sharp, kahlua_yohko",
+	"version": "1.14.0",
+	"authors": [
+		{ "name": "Brother Sharp" },
+		{ "name": "kahlua_yohko" }
+	],
 	"languages": [
 		{
 			"lang": "ja",
-			"system":"pf2e",
 			"name": "日本語",
-			"path": "lang/ja.json"
+			"path": "lang/ja.json",
+			"system": "pf2e"
 		},
 		{
 			"lang": "ja",
-			"system":"pf2e",
 			"name": "日本語",
-			"path": "lang/re-ja.json"
+			"path": "lang/re-ja.json",
+			"system": "pf2e"
 		}
 	],
 	"scripts": ["register-babele.js"],
-  "styles" : [],
-  "packs": [],
-  "dependencies": [
-	  {
-	"name": "babele",
-	"manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-	"type": "module"
-  	},
-	{
-	"name": "lib-wrapper",
-	"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
-	"type": "module"
+	"styles": [],
+	"packs": [],
+	"relationships": {
+		"requires": [
+			{
+				"id": "babele",
+				"type": "module",
+				"manifest": "https://gitlab.com/riccisi/foundryvtt-babele/-/jobs/artifacts/2.9.1/raw/module/module.json?job=build"
+			}
+		]
+	},
+	"url": "https://github.com/BrotherSharper/pf2eja",
+	"manifest": "https://raw.githubusercontent.com/BrotherSharper/pf2eja/master/module.json",
+	"download": "https://github.com/BrotherSharper/pf2eja/archive/master.zip",
+	"compatibility": {
+		"minimum": "13",
+		"verified": "14",
+		"maximum": "14"
 	}
-],
-	"url" : "https://github.com/BrotherSharper/pf2eja",
-	"download" : "https://github.com/BrotherSharper/pf2eja/archive/master.zip",
-	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/pf2eja/master/module.json",
-  "minimumCoreVersion": "0.6.0",
-  "compatibleCoreVersion": "10"
 }
