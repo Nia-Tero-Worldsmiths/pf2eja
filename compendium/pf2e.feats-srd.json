@@ -4078,8 +4078,8 @@
 			"description": "<p>With obsequious words and begging gestures, you convince your foe you're less of a threat.</p>\n<p>You attempt to @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feint} against a creature. Unlike a normal Feint, the creature can be within 30 feet instead of in your melee reach, and you make your check against its Will DC instead of its Perception DC.</p>"
 		},
 		"Guarded Advance": {
-			"name": "Guarded Advance",
-			"description": "<p>You slowly advance on the battlefield, taking utmost caution. You either Step and Raise a Shield or Raise a Shield and Step.</p>"
+			"name": "慎重な進撃",
+			"description": "<p>君は最大限の注意を払いながら、戦場をゆっくりと前進する。君は“盾を掲げる”を行い、順不同で2回の“ステップ”を行う。</p>"
 		},
 		"Guarded Thoughts": {
 			"name": "Guarded Thoughts",
@@ -5498,8 +5498,8 @@
 			"description": "<p><strong>Requirements</strong> You're wielding a ranged or thrown weapon, or have a ranged unarmed attack.</p>\n<hr />\n<p>A trail of energy flows from your target back to you. Make a Spellstrike with a ranged weapon or ranged unarmed attack against a target within the ranged weapon or unarmed attack's first range increment. The spell you cast for the Spellstrike can't be a cantrip or focus spell. Each creature in a line between you and the target, excluding you and the target, takes damage equal to double the spell's level. Determine the damage type as described in Arcane Cascade.</p>"
 		},
 		"Mighty Bulwark": {
-			"name": "Mighty Bulwark",
-			"description": "<p>Thanks to your incredible connection to your armor, you can use it to shrug off an incredible array of dangers. Your bonus from the bulwark armor trait increases from +3 to +4, and it applies on all Reflex saves, not just damaging Reflex saves.</p>"
+			"name": "強大なる防壁",
+			"description": "<p><strong>前提条件</strong> @Compendium[pf2e.feats-srd.Item.8foxmfC6FFT3oYpV]</p>\n<hr />\n<p>君が自身の鎧との間に築いた驚くべき繋がりのおかげで、広範な危険を受け流すためにそれを使用できる。堅牢の鎧特性による君のボーナスは+3から+4に増加し、ダメージを与える反応セーヴだけでなく、全ての反応セーヴに適用される。</p>"
 		},
 		"Mighty Dragon Shape": {
 			"name": "Mighty Dragon Shape",
@@ -6176,10 +6176,6 @@
 		"Petrified Skin": {
 			"name": "Petrified Skin",
 			"description": "<p>It might have been a medusa, dracolisk, or even a fossil golem; regardless of the source, you were the target of some petrifying effect, and an element of that stony gaze has remained with you, both protecting and slowly consuming you. Your limbs are coated with a layer of stone that rests atop your skin and covers more of your body as you lose health. You gain a stone fist unarmed attack that deals 1d8 bludgeoning damage, has the shove trait, and is in the brawling weapon group (unlike a normal fist, it doesn't have the agile or finesse traits).</p>\n<p>Additionally, you become more petrified as your life force ebbs. When you have fewer than half your maximum Hit Points, you increase the damage die size of your stone fist from 1d8 to 1d10 and gain resistance to physical damage (except adamantine) equal to your Constitution modifier.</p>\n<p>If you would gain the dying condition, you can choose to instead be permanently petrified and avoid the risk of death. When you do, you enter your petrified form with your full maximum Hit Points instead of the normal number. If you become unpetrified, you return to 0 Hit Points, as normal. You can't voluntarily end this petrification. Counteracting this petrification requires a casting of stone to flesh of a spell level equal to at least half your level, and a successful counteract check against the hard DC for your level. Other effects like stone to flesh have similar limitations, as determined by the GM. Each time you recover from this petrification, you gain a new scar on your skin in the shape of a long, thin crack.</p>"
-		},
-		"Phalanx Formation": {
-			"name": "Phalanx Formation",
-			"description": "<p>You know how to clear a line of fire for your allies. You don't provide lesser cover to enemies against your allies' attacks.</p>"
 		},
 		"Phase Arrow": {
 			"name": "Phase Arrow",
@@ -12885,10 +12881,6 @@
 			"name": "盾行進",
 			"description": "<p>盾を掲げている際、君の敵の攻撃は君に触れることがない。君が盾を掲げている際、移動をトリガーとするリアクション（たとえば「機会攻撃」）を引き起こすことなく、君は移動速度の半分まで「歩行」することが出来る。君は対応する移動種別を持っているなら、《盾行進》を「飛行」か「水泳」している間に使うことが出来る。</p>"
 		},
-		"Reactive Shield": {
-			"name": "盾即応",
-			"description": "<p><strong>トリガー</strong>: 敵が君に近接「打撃」を命中させる</p>\n<p><strong>条件</strong>君が盾を使っている</p>\n<hr />\n<p>君は攻撃を受けた際に所定の場所に盾を移動させて、すんでのところで命中を避けることが出来る。君は即座に@Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{「盾を掲げる」}のアクションを使って、ACに盾のボーナスを得る。盾の状況ボーナスは、トリガーとなった攻撃の結果を決定する際に君のACに適用される。</p>"
-		},
 		"Shield Block": {
 			"name": "盾防御",
 			"description": "<p><strong>トリガー</strong> 君が「盾を掲げる」間、物理攻撃によるダメージを受ける</p>\n<hr />\n<p>君は打撃から身を守る場所に盾を手首で配置する。君の盾はその硬度までのダメージ量を防いでくれる。君と盾はそれぞれ、残ったダメージを全て受け、もしかしたら盾ｈ破損するか、破壊されるかもしれない。</p>"
@@ -15920,6 +15912,139 @@
 		"Battle Cry": {
 			"name": "鬨の声",
 			"description": "<p>前提条件　〈威圧〉に達人</p>\n<p>イニシアチブをロールする際、君は力強い鬨の声をあげて、フリー・アクションとして目視している敵の<span data-pf2-action=\"demoralize\" data-pf2-glyph=\"F\">「士気をくじく」</span>ことが出来る。</p>\n<p>もし君が〈威圧〉に伝説であるなら、君は攻撃ロールにクリティカルした際、敵の <span data-pf2-action=\"demoralize\" data-pf2-glyph=\"R\">「士気をくじく」</span>ためにリアクションを使うことが出来る。</p>"
+		},
+		"Bodyguard": {
+			"name": "護衛",
+			"description": "<p>君は自身が曝される危険に関わらず、いかなる犠牲を払っても味方の1人を守るという誓いを立てる。日毎の準備の間、君は味方の1人を保護対象として選択する。君が@Compendium[pf2e.actionspf2e.Item.4DYFJ4TUsNkgFBDb]を行う際、君の“挑発”を受けた敵が君の保護対象に対して受けるペナルティは-2に増加する。君は次の日毎の準備の前に、10分かけて保護対象を誰にするか変更することができる。</p>"
+		},
+		"Defensive Advance": {
+			"name": "防衛前進",
+			"description": "<p>盾の守りを手に、君は戦闘へと飛び込む！君は“盾を掲げる”を行い、“歩行”する。移動を1体以上の敵の近接間合い内で終了した場合、君はその敵に対して近接“打撃”を行うことができる。対応する移動種別を持っているなら、“歩行”の代わりに“穴掘り”、“登攀”、“飛行”、“水泳”中に《防衛前進》を使用できる。</p>"
+		},
+		"Larger than Life": {
+			"name": "実物以上の存在",
+			"description": "<p>君が最も重い鎧に身を包んでいる際、並外れた存在感を放つ。君自身が大きくなることはないが、重装鎧を着用している間、“武器落とし”、“組みつき”、“位置ずらし”、“突き飛ばし”、“足払い”などのアクションで他のクリーチャーに影響を与える目的において、1サイズ大きいものとして扱う。同様に、重装鎧を着用している間、クリーチャーが君に対して前述のアクションや“飲み込み”などのアクションを試みる目的においても、1サイズ大きいものとして扱う。</p>"
+		},
+		"Lond-distance Taunt": {
+			"name": "遠距離挑発",
+			"description": "<p>君は遠く離れた場所からでも敵を“挑発”することができる。君が“挑発”を使用する際、120フィート以内までの目標を選択できる。</p>"
+		},
+		"Punishing Shove": {
+			"name": "全力突き飛ばし",
+			"description": "<p><strong>前提条件</strong> 運動の修得</>\n<hr />\n<p>敵を突き飛ばす際に、鎧に身を包んだ体全体でぶつかる。クリーチャーへの“突き飛ばし”に成功した場合に、対象のクリーチャーは君の【筋力】修正値（大成功なら2倍）に等しい［殴打］ダメージを受ける。このダメージは君の運動が“熟練”になると2、“達人”になると6、“伝説”になると12増加する。</p>"
+		},
+		"Reactive Shield": {
+			"name": "盾即応",
+			"description": "<p><strong>トリガー</strong> 敵が君に近接「打撃」を命中させる</p>\n<p><strong>条件</strong>君が盾を使っている</p>\n<hr />\n<p>君は攻撃を受けた際に所定の場所に盾を移動させて、すんでのところで命中を避けることが出来る。君は即座に@Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{「盾を掲げる」}のアクションを使って、ACに盾のボーナスを得る。盾の状況ボーナスは、トリガーとなった攻撃の結果を決定する際に君のACに適用される。</p>"
+		},
+		"Shield Warfare": {
+			"name": "盾使い",
+			"description": "<p>君は他の誰よりも、盾を攻撃的に使用する方法を熟知している。君の盾攻撃、シールド・ボス、シールド・スパイクの武器ダメージ・ロールを1段階上昇させる。</p>"
+		},
+		"Shoulder Check": {
+			"name": "肩突進",
+			"description": "<p>君は敵のバランスを崩させるため、鎧の肩で敵を打つ。手が空いていなくても拳による1回の“打撃”を行う。ガントレットやスパイク・ガントレットを装備しているなら、代わりにそれらの武器で“打撃”を行ってもよい。この“打撃”は以下の追加の結果を得る。</p>\n<hr /><p><strong>大成功</strong> 目標は、君の次のターン終了時まで君が行う近接攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]になる。</p>\n<p><strong>成功</strong> 目標は、君の現在のターン終了時までに君が試みる次の近接攻撃に対して@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]になる。</p>\n<p><strong>大失敗</strong> 君は、目標が君に対して試みる近接攻撃に対して、君の次のターン終了時まで@UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]になる。</p>"
+		},
+		"Aggresssive Block": {
+			"name": "盾押し",
+			"description": "<p><strong>トリガー</strong> 君が@Compendium[pf2e.bestiary-ability-glossary-srd.Item.m4HQ2o5aPxjXf2kY]リアクションを使用し、@Compendium[pf2e.bestiary-ability-glossary-srd.Item.m4HQ2o5aPxjXf2kY]のトリガーとなった敵が君に隣接しており、かつサイズが君と同じか君より小さい。</p>\n<hr />\n<p>君は攻撃を防いだときに押しやり、敵を遠くに離すかバランスを崩す。君は盾を使用してトリガーとなったクリーチャーを押しやり、敵を自動的に5フィート“突き飛ばし”を行うか、次の君のターンの開始時まで敵を@Compendium[pf2e.conditionitems.Item.AJh5ex99aV6VTggg]にする。トリガーとなったクリーチャーは移動するか@Compendium[pf2e.conditionitems.Item.AJh5ex99aV6VTggg]になるかを選択する。移動することを選んだなら、君が方向を指定する。“突き飛ばし”によって目標が硬い物体にぶつかったり、移動困難地形のマスに侵入したり、別のクリーチャーの接敵面に侵入することになったなら、敵は移動する代わりに@Compendium[pf2e.conditionitems.Item.AJh5ex99aV6VTggg]になる。</p>"
+		},
+		"Covering Stance": {
+			"name": "防護の構え",
+			"description": "<p>戦場における君の存在が、周囲の味方を危害から守る。この構えの間、君の各ターンの終了時に、君に隣接する味方1人を選択する。対象の味方は君の次のターンの開始時まで下級遮蔽を得る。その味方が移動中に君に隣接していないマスへ移動した時点で、その味方はこの利益を失う。君が防護している味方を傷つける攻撃に対して@Compendium[pf2e.actionspf2e.Item.vhO1f7oTD2s3Ncg9]を行った場合、リアクションの完了後にその味方はフリー・アクションとして“ステップ”できる。</p>"
+		},
+		"Hampering Stance": {
+			"name": "妨害の構え",
+			"description": "<p>君は敵が自身の側を通り抜けるのを困難にする。この構えの間、5フィートの放射範囲内のマスは敵にとって移動困難地形となる。</p>"
+		},
+		"Phalanx Formation": {
+			"name": "方陣形",
+			"description": "<p>君は味方のための射線を確保する方法を心得ている。君は味方の攻撃に対して敵に下級遮蔽を提供しない。</p>"
+		},
+		"Raise Haft": {
+			"name": "柄を掲げる",
+			"description": "<p>君は敵の攻撃を防ぐために、大型武器の柄を使用する方法を心得ている。君が振るう両手持ち武器は受け特性を得る。その武器がすでに受け特性を持っている場合、提供するACへの状況ボーナスを+2に増加させる。</p>"
+		},
+		"Shield your Eyes": {
+			"name": "目を覆う盾",
+			"description": "<p>君は反射的に自身の目と視覚的な危険の間に盾を配置する。盾を掲げている間、光または視覚特性を持つ効果に対する全ての防御に+2の状況ボーナスを得る。盾を掲げている間に前述の効果に対するセーヴに大失敗した場合、代わりに失敗となる。同様に前述の効果が君のDCに対して大成功した場合、代わりに成功となる。</p>"
+		},
+		"Shielding Taunt": {
+			"name": "盾による挑発",
+			"description": "<p><strong>必要条件</strong> 君は盾を装備している。</p>\n<hr />\n<p>盾を大きく打ち鳴らすことで、最も頑固な敵の注意さえも引きつける。君は“盾を掲げる”を行い、クリーチャーに“挑発”を行う。この“挑発”は聴覚特性を得る。</p>"
+		},
+		"Taunting Strike": {
+			"name": "挑発の打撃",
+			"description": "<p>君の一撃の衝撃は、敵の注意を君へと向けさせる。君は1回の“打撃”を行う。その“打撃”が命中したかどうかに関わらず、目標に“挑発”を行う。この“挑発”は視覚特性を得る。</p>"
+		},
+		"Area Armor": {
+			"name": "範囲装甲",
+			"description": "<p>君が着用している鎧は君を保護し、爆発やその他の大規模な強襲に対して味方を守る。中装鎧または重装鎧を着用している間、君に隣接する味方は範囲効果に対する反応セーヴに+1の状況ボーナスを得る。君がその鎧の“達人”である場合、このボーナスは代わりに+2となる。</p>"
+		},
+		"Armored Courage": {
+			"name": "装甲の勇気",
+			"description": "<p><strong>頻度</strong> 1時間に1回</p>\n<p><strong>必要条件</strong> 君は中装鎧または重装鎧を着用している。</p>\n<hr />\n<p>君は自身の鎧の安全性に安らぎを得る。君は自身のレベルに等しい一時的ヒット・ポイントを1分間得て、君の@Compendium[pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]状態値を1減少させる（最低0まで）。</p>"
+		},
+		"Energy Interceptor": {
+			"name": "エネルギー遮断",
+			"description": "<p><strong>前提条件</strong> @Compendium[pf2e.actionspf2e.Item.vhO1f7oTD2s3Ncg9]</p>\n<hr />\n<p>他のガーディアンは武勇的な戦闘の流れを予測する方法を理解しているが、君は魔法の稲妻の爆発や、燃え盛る罠のルーンなどを予測する。君は味方が物理ダメージを受ける時だけでなく、［強酸］、［氷雪］、［雷撃］、［火炎］、［音波］ダメージを受ける際にも@Compendium[pf2e.actionspf2e.Item.vhO1f7oTD2s3Ncg9]を使用できる。</p>"
+		},
+		"Flying Tackle": {
+			"name": "フライング・タックル",
+			"description": "<p><strong>前提条件</strong> 運動の修得</p>\n<hr />\n<p>君は前方に突進し、脅威となる敵を倒すのに十分な勢いを蓄える。君は“歩行”し、その後に“跳躍”するか、“高跳び”または“幅跳び”を試みる。敵に隣接して移動を終了した場合、その敵に対して“足払い”を試みることができる。“足払い”のための運動判定に成功した場合、代わりに大成功を得る。対応する移動種別を持っているなら、“歩行”の代わりに“穴掘り”、“登攀”、“飛行”、“水泳”中に《フライング・タックル》を使用できる。</p>"
+		},
+		"Not so Fast!": {
+			"name": "慌てるな！",
+			"description": "<p><strong>前提条件</strong> @Compendium[pf2e.feats-srd.Item.UKXaMhb9qlPYw1HD]</p>\n<p><strong>トリガー</strong> 君の間合い内のクリーチャーが“移動”アクション中にマスを離れる。</p>\n<p><strong>必要条件</strong> 君は@Compendium[pf2e.feats-srd.Item.UKXaMhb9qlPYw1HD]をとっている。</p>\n<hr />\n<p>敵が君の側を通り抜けようとするとき、君は激しく攻撃し、敵の動きをその場で止める可能性がある。トリガーとなったクリーチャーに対して1回の近接“打撃”を行う。この“打撃”は以下の追加の結果を得る。</p>\n<p><strong>大成功</strong> 目標の移動は中断される。</p>\n<p><strong>成功</strong> 目標はトリガーとなった移動の残りの間、自身の速度に-10フィートの状況ペナルティを受ける。このペナルティにより、目標の移動は修正された速度に基づいて即座に終了する場合がある。</p>\n<p><strong>失敗</strong> 成功と同様だが、代わりに目標は自身の速度に-5フィートの状況ペナルティを受ける。</p>\n<p><strong>大失敗</strong> 目標は影響を受けない。</p>"
+		},
+		"Proud Nail": {
+			"name": "飛び出た釘",
+			"description": "<p><strong>必要条件</strong> 君の挑発を受けた敵が、君を目標にしなかったか範囲効果に君を含めなかったために、@Compendium[pf2e.conditionitems.Item.AJh5ex99aV6VTggg]である。</p>\n<hr />\n<p>敵が君の挑発を無視した際、君は報いを受けさせる。君の挑発を受けた敵に対して1回の近接“打撃”を行う。この“打撃”が命中した場合、武器ダメージ・ダイス1個分の追加ダメージを与える。君が10レベル以上であればダイスを2個に、18レベル以上であれば3個に増加させる。</p>"
+		},
+		"Shielded Attrition": {
+			"name": "盾による消耗",
+			"description": "<p><strong>必要条件</strong> 君は盾を装備している。</p>\n<hr />\n<p>君は、味方の移動を妨げる可能性のある敵からの攻撃を誘発させる。君は“盾を掲げる”を行い、その後に自身の移動速度の半分まで“歩行”するかどうかを選択する。この移動は通常通り敵のリアクションをトリガーする。君の移動に対して反応できた各敵は、実際に反応したかどうかにかかわらず、君の次のターン開始時まで、君の味方の移動に対してリアクションを行うことができなくなる。</p>"
+		},
+		"Disarming Intercept": {
+			"name": "武器落としの迎撃",
+			"description": "<p><strong>前提条件</strong> @Compendium[pf2e.actionspf2e.Item.vhO1f7oTD2s3Ncg9]</p>\n<p><strong>トリガー</strong> 隣接するクリーチャーによる近接武器での攻撃に対して@Compendium[pf2e.actionspf2e.Item.vhO1f7oTD2s3Ncg9]を使用する。</p>\n<hr />\n<p>自身の鎧で武器を受け止めたとき、君は身体を動かして敵の把握からそれをねじり取ることができる。@Compendium[pf2e.actionspf2e.Item.vhO1f7oTD2s3Ncg9]を行った後、その攻撃に使用された武器に対して“武器落とし”を試みる。手が空いている必要はなく、鎧の強化ルーンの数値に等しいアイテム・ボーナスを運動判定に得る。</p>"
+		},
+		"Lock Down": {
+			"name": "行動制限",
+			"description": "<p><strong>前提条件</strong> @Compendium[pf2e.feats-srd.Item.UKXaMhb9qlPYw1HD]</p>\n<p><strong>必要条件</strong> 君は@Compendium[pf2e.feats-srd.Item.UKXaMhb9qlPYw1HD]をとっている。</p>\n<hr />\n<p>君は敵が自身の射程を超えて移動できないように攻撃する。君の間合い内の敵に1回の“打撃”を行う。命中してダメージを与えた場合、対象の敵は“打撃”に使用した武器または素手攻撃の間合いを超えて移動するために“移動”アクションを使用できなくなる。その敵は依然として、当該の武器または素手攻撃の間合い内の他のマスへは移動できる。この効果は、君の次のターン開始時に君が移動する、または君が当該の武器あるいは素手攻撃を使用して別の攻撃を行う、のいずれかが最初に発生するまで持続する。</p>"
+		},
+		"Retaliating Rescue": {
+			"name": "報復的救助",
+			"description": "<p>味方が危険にさらされている際に、君は急いで彼らの元へ駆けつけ、味方を脅かしている敵を罰することができる。君の移動速度までを上限に“歩行”する。この移動は敵の間合い内にいる味方に隣接して終了しなければならない。その後、味方を最大5フィート押す（“強制移動”として扱い、この移動はリアクションをトリガーしない）。その後、君の間合い内の敵に対して1回の近接“打撃”を行う。もし味方がその敵の間合い内にいて、君の押し出しによってその間合いから出たのであれば、君はこの攻撃ロールに+2の状況ボーナスを得る。</p>"
+		},
+		"Ring their Bell": {
+			"name": "脳揺らす一撃",
+			"description": "<p><strong>必要条件</strong> 君は中装鎧または重装鎧を着用しており、君の挑発を受けた敵が君を目標にしなかった、あるいは範囲効果に君を含めなかったために@Compendium[pf2e.conditionitems.Item.AJh5ex99aV6VTggg]にある。</p>\n<hr />\n<p>自身の鎧を使用し、君に集中していない敵の頭部や顔面を強打してよろめかせる。手が空いていなくても君の挑発を受けた敵に対して拳による“打撃”を行う。ガントレットやスパイク・ガントレットを装備しているなら、代わりにそれらの武器で“打撃”を行ってもよい。この“打撃”が命中してダメージを与えた場合、クリーチャーは君のクラスDCに対して頑健セーヴを行わなければならない。これは無力化効果である。</p>\n<p><strong>大成功</strong> クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong> クリーチャーは@Compendium[pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]状態1になる。</p>\n<p><strong>失敗</strong> クリーチャーは@Compendium[pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]状態2になる。</p>\n<p><strong>大失敗</strong> クリーチャーは@Compendium[pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]状態3になる。</p>"
+		},
+		"Stomp Ground": {
+			"name": "地踏み",
+			"description": "<p>君は敵を動揺させるのに十分な力で、ブーツを履いた足を地面に踏み下ろす。5フィートの放射範囲内の各クリーチャーは、君のクラスDCに対して反応セーヴを行わなければならない。</p>\n<p><strong>大成功</strong> クリーチャーは影響を受けない。</p>\n<p><strong>成功</strong> クリーチャーは君のターン終了時まで@Compendium[pf2e.conditionitems.Item.AJh5ex99aV6VTggg]になる。</p>\n<p><strong>失敗</strong> クリーチャーは@Compendium[pf2e.conditionitems.Item.j91X7x0XSomq8d60]状態になる。</p>\n<p><strong>大失敗</strong> クリーチャーは@Compendium[pf2e.conditionitems.Item.j91X7x0XSomq8d60]状態になり、転倒による1d6［殴打］ダメージを受ける。</p>"
+		},
+		"Group Taunt": {
+			"name": "集団挑発",
+			"description": "<p>君の挑発は一度に複数の敵の注意を引きつける。君が“挑発”を使用する際、射程内の最大3体までの目標を選択でき、同時に最大3体までの挑発された敵を持つことができる。“挑発”を行う毎に、どの敵を挑発状態のままにし、どの敵の効果を終了させるかを選択できる。君はこの上限以下を維持しなければならない。</p>"
+		},
+		"Juggernaut Charge": {
+			"name": "圧倒する突撃",
+			"description": "<p>勢いよく前進する際、君は鎧の重さを攻撃に乗せ、敵を一緒に引きずることができる。君は“歩行”を行い、1体以上の敵の近接間合い内で移動を終了した場合、その敵に対して1回の近接“打撃”を行い、その後に再び“歩行”することができる。“打撃”が命中してダメージを与えた場合、対象の敵は君と共に引きずられ、2回目の“歩行”と同じ方向および距離だけ移動する。</p>"
+		},
+		"Repositioning Block": {
+			"name": "位置ずらしの守り",
+			"description": "<p><strong>前提条件</strong> @Compendium[pf2e.bestiary-ability-glossary-srd.Item.m4HQ2o5aPxjXf2kY]</p>\n<p><strong>トリガー</strong> 君が隣接するクリーチャーの攻撃によるダメージを防ぐために@Compendium[pf2e.bestiary-ability-glossary-srd.Item.m4HQ2o5aPxjXf2kY]を使用した。</p>\n<hr />\n<p>敵からの一撃を吸収するとき、君はその攻撃の勢いを敵に対して利用できる。@Compendium[pf2e.bestiary-ability-glossary-srd.Item.m4HQ2o5aPxjXf2kY]を使用した対象のクリーチャーに対して“位置ずらし”を試みる。その際に手が空いている必要はない。君の盾が4レベル以上であれば+1、10レベル以上であれば+2、16レベル以上であれば+3のアイテム・ボーナスを運動判定に得る。</p>"
+		},
+		"Shield from Arrows": {
+			"name": "矢を阻む盾",
+			"description": "<p><strong>トリガー</strong> 隣接する味方が物理的な遠隔攻撃の目標となる。</p>\n<p><strong>必要条件</strong> 君は攻撃者を見ることができ、@Compendium[pf2e.conditionitems.Item.AJh5ex99aV6VTggg]ではなく、“盾を掲げる”を行っている。</p>\n<hr />\n<p>君は飛来する投射物の軌道上に自身の盾を配置する。隣接する味方はトリガーとなった攻撃に対してACに+4の状況ボーナスを得る。攻撃が外れた場合、君は盾で当該の攻撃を逸らしたことになる。</p>"
+		},
+		"Shield Wallop": {
+			"name": "盾の強打",
+			"description": "<p><strong>必要条件</strong> 君は盾を装備している。</p>\n<hr />\n<p>君は盾による攻撃で、敵を気絶させる。盾攻撃、@Compendium[pf2e.equipment-srd.Item.dfum7DpOEkwxwTsT]、または@Compendium[pf2e.equipment-srd.Item.nSO0Z662LkkLfa2u]による“打撃”を行う。当該の攻撃が命中してダメージを与えた場合、対象は君の次のターン開始時まで@Compendium[pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]状態1になる（クリティカル・ヒットなら@Compendium[pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]状態2）。君の盾が@Compendium[pf2e.equipment-srd.Item.ltundBNFAnP7bgPr]、@Compendium[pf2e.equipment-srd.Item.tugYMolpupNz05cE]、または@Compendium[pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]を行った際により高いACへの状況ボーナスを提供する盾である場合、命中してダメージを与えたクリーチャーは代わりに@Compendium[pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]状態2（クリティカル・ヒットなら@Compendium[pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]状態3）になる。"
 		}
+
 	}
 }
