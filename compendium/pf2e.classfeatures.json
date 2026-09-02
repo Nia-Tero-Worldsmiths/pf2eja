@@ -2035,9 +2035,9 @@
 		},
 		"Guardian's Techniques": {
 			"name": "ガーディアンの技術",
-			"description": "<p>ガーディアンとして、君は味方の安全を保つための特定の技術を学んだ。</p><h3>常時臨戦態勢</h3><p>君は戦闘のイニシアチブをロールするたびに常にリアクションを1つ得る。これはガーディアン特技またはクラス特徴によるリアクションにのみ使用できる。GMは状況に基づき、通常通り最初のターンの前であっても他のリアクションを使用できると判断してもよい。</p><h3>攻撃阻害</h3></p>君は自分が傷つくことになっても、守るべき者を害から守る。君は@UUID[Compendium.pf2e.actionspf2e.Item.vhO1f7oTD2s3Ncg9]リアクションを得る</p>"
+			"description": "<p>ガーディアンとして、君は味方の安全を保つための特定の技術を学んだ。</p><h3>常時臨戦態勢</h3><p>君は戦闘のイニシアチブをロールするたびに常にリアクションを1つ得る。これはガーディアン特技またはクラス特徴によるリアクションにのみ使用できる。GMは状況に基づき、通常通り最初のターンの前であっても他のリアクションを使用できると判断してもよい。</p><h3>攻撃阻害</h3><p>君は自分が傷つくことになっても、守るべき者を害から守る。君は@UUID[Compendium.pf2e.actionspf2e.Item.vhO1f7oTD2s3Ncg9]リアクションを得る</p>"
 		},
-		"Tough to Kill": {
+		"Tough To Kill": {
 			"name": "殺め難し",
 			"description": "<p>鎧に守られたことで、君は倒れたとしても死に至るまでの時間が長くなる。君は@Compendium[pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]一般特技を得る。既に@Compendium[pf2e.feats-srd.Item.I0BhPWqYf1bbzEYg]を得ている場合、君はこの能力を得る際に再訓練してもよい。加えて、一日のうちに初めて君の@Compendium[pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死状態}値が3以上になる際、代わりに@Compendium[pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{瀕死状態}値は2に留まる。</p>"
 		},
